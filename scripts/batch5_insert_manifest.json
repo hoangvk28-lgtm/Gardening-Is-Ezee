@@ -1,0 +1,19 @@
+[
+  { "slug": "best-office-chair-under-100", "asins": ["B0GVHCSFSQ", "B0FQ4LCBY5", "B0GKNKGYPV"], "note": "All 3 new products are priced well above $100 ($239.99, $109.99, $169.99) despite this being an 'under $100' guide. Do not claim they are under $100 in copy — describe them honestly as pricier alternatives (e.g. 'a step up in price' or 'for buyers willing to spend more') rather than mislabeling the price." },
+  { "slug": "best-under-desk-cable-trays", "asins": ["B0D2WGVR7V", "B0F3H1XC21", "B0C8N7DQZV"] },
+  { "slug": "best-l-shaped-wood-desk", "asins": ["B0FXWTQGWC", "B0F3X6725F", "B0GFN8CVDM"], "note": "The originally-supplied ASIN B0FLPXZJ2S was inaccessible via the Amazon API and has been replaced with B0GFN8CVDM (SEDETA Farmhouse L Shaped Office Desk with Drawers, $229.99, verified accessible)." },
+  { "slug": "best-tablet-stands", "asins": ["B09T6TG2FK", "B0H3682CZN", "B0FD3828QL"] },
+  { "slug": "best-small-keyboards", "asins": ["B0GVTV6H5K", "B081549BN2", "B0C48RVVM4", "B0FM71WHJH"], "note": "The originally-supplied ASIN B0G4SPYXYX was inaccessible via the Amazon API and has been replaced with B081549BN2 (Macally Small Wireless Keyboard and Mouse Combo, $29.99, verified accessible)." },
+  { "slug": "best-charging-stations-for-multiple-devices-desk", "asins": ["B0716PR3MJ", "B0FJXP3FSG", "B0GJZXW584"] },
+  { "slug": "best-27-inch-monitor-under-200", "asins": ["B0BW47KFXB", "B0GKHJRLLS"], "note": "B0GKHJRLLS (Dell Pro P2725H Plus) is priced at $259.99, above the guide's 'under $200' theme. Do not claim it is under $200 in copy — describe it honestly as a premium/business-tier alternative rather than mislabeling the price." },
+  { "slug": "best-headset-for-work", "asins": ["B0FKTFMH2F", "B0H4QGJ5LQ", "B0GFDWXFJW", "B0C4ND25FT"] },
+  { "slug": "best-tablet-stands-for-bed", "asins": ["B09T6TG2FK", "B0H3682CZN", "B0FD3828QL"] },
+  { "slug": "best-wall-mounted-desks-small-spaces", "asins": ["B0H1W3RJPH"] },
+  { "slug": "best-l-shaped-standing-desk", "asins": ["B0FXWTQGWC", "B0DV4GZ1NM", "B0CP9G62LR"] },
+  { "slug": "best-mechanical-keyboard-under-100", "asins": ["B0F38DZG3J", "B08LNFY8Y7", "B0FGGZK4X7"], "note": "The originally-supplied ASIN B0F83RNHNV was inaccessible via the Amazon API and has been replaced with B0FGGZK4X7 (ASUS ROG Strix Scope II X, $94.99, genuinely mechanical hot-swappable, verified accessible and genuinely under $100)." },
+  { "slug": "best-printer-stands-with-storage", "asins": ["B0CNTH3F7P", "B0C84WF15W", "B0GMPWZ7ZY"], "note": "B0CNTH3F7P (a MagSafe wireless charger) does not appear to be a printer stand at all based on its real Amazon title — double check this before inserting; if it's genuinely unrelated to printer stands, flag it in your report rather than forcing it into the guide as a printer stand, but the user explicitly requested this exact ASIN be added, so include it with an honest description of what it actually is if it turns out to be miscategorized, and note the discrepancy in your final report." },
+  { "slug": "best-charging-stations-for-bedside-table", "asins": ["B0716PR3MJ", "B0FJXP3FSG", "B0GJZXW584"] },
+  { "slug": "best-computer-desk-with-hutch", "asins": ["B0DD6WMFTD"], "note": "Per its real Amazon title, B0DD6WMFTD is an L-shaped gaming desk with a monitor shelf, not necessarily described as having a hutch in the traditional sense — describe it honestly based on its real features (integrated monitor shelf) rather than claiming a hutch feature it may not have." },
+  { "slug": "best-desk-hutches-for-dorm-rooms", "asins": ["B0F8BPTZ46"] },
+  { "slug": "best-docking-stations-for-laptop-and-desktop", "asins": ["B0CRDQW4GT", "B0FCXN5P3T", "B0FFGMGXT1"] }
+]

@@ -1,0 +1,259 @@
+{
+  "B09TRZLPXP": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/319DqCyLa3L._SL500_.jpg",
+    "title": "Canon PIXMA TR8620a - All-in-One Printer Home Office|Copier|Scanner|Fax|Auto Document Feeder | Photo, Document | Airprint (R), Android, Black, Works with Alexa",
+    "price": "$199.00"
+  },
+  "B0FGCCWV6T": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/31C067ZosFL._SL500_.jpg",
+    "title": "Brother INKvestment 4355 Wireless Color Inkjet All-in-One Printer with 1.8” Color Display and Manual Feed Slot | Includes Refresh Subscription Trial(1) (MFC-J4355DW)",
+    "price": "$208.20"
+  },
+  "B0FP3LJ74G": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/31d5wmSRcAL._SL500_.jpg",
+    "title": "Canon Color imageCLASS MF753Cdw II - Wireless Duplex Laser Printer, All-in-One with Scanner, Copier, Fax, Auto Document Feeder, 3 Year Limited Warranty, 35 PPM",
+    "price": "$491.00"
+  },
+  "B0FC5KYF71": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/31JMZ0fsKTL._SL500_.jpg",
+    "title": "Epson EcoTank ET-4950 Wireless All-in-One Color Supertank Printer with up to 3 Years of Ink Refillable Tanks, Perfect for Home, 18 PPM, 2.4\" Colorful Touchscreen, Auto Document Feeder - Black",
+    "price": "$425.00"
+  },
+  "B09P45LR5T": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/31G4p897b8L._SL500_.jpg",
+    "title": "Epson EcoTank ET-4800 Wireless All-in-One Cartridge-Free Supertank Printer with Scanner, Copier, Fax, ADF and Ethernet – Ideal-for Your Home Office, White",
+    "price": "$199.99"
+  },
+  "B0FGCH2QK2": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/312N971RNPL._SL500_.jpg",
+    "title": "Brother INKvestment 4555 Wireless Color Inkjet All-in-One Printer with 2.7” Color Touchscreen and 2 Paper Trays | Includes Refresh Subscription Trial(1) (MFC-J4555DW)",
+    "price": "$279.99"
+  },
+  "B0GTN9ZGRS": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41wQemMt6wL._SL500_.jpg",
+    "title": "Brother INKvestment 5010 Wireless Color Inkjet All-in-One Printer with Automatic 2-Sided Copy & Scan with 2.7” Color Touchscreen (MCF-J5010DW)",
+    "price": "$249.99"
+  },
+  "B07WL4JNH7": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41uW+KOhmiL._SL500_.jpg",
+    "title": "Canon TS5320 All in One Wireless Printer, Scanner, Copier with AirPrint, Black, Amazon Dash Replenishment Ready",
+    "price": "$112.80"
+  },
+  "B07FN93WW7": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/411M0mBMPwL._SL500_.jpg",
+    "title": "Epson Expression Premium XP-7100 Wireless All-in-One Duplex Color Photo Printer, Scanner and Copier for Computer and Mobile Printing, USB Connect, Compact, Black",
+    "price": "$189.99"
+  },
+  "B0D96T79YF": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/316tpuWileL._SL500_.jpg",
+    "title": "HP LaserJet M209d Laser Printer, Black and White, Automatic Duplex, Wired Connection Only (USB Cable Included), Best-for-Home Office (8J9L0F)",
+    "price": "$159.00"
+  },
+  "B01IIOMMRS": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41qSvRweBuL._SL500_.jpg",
+    "title": "Canon Office Products MAXIFY MB2720 Wireless Color Photo Printer with Scanner, Copier and Fax",
+    "price": "$116.15"
+  },
+  "B0GPFLM562": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41MCIwNDseL._SL500_.jpg",
+    "title": "HP OfficeJet Pro 9135 Wireless All-in-One Color Inkjet Printer, Print, Scan, Copy, Fax, ADF, Duplex Print/scan, Best-for-Office, 3 Month Trial of Instant Ink Included, AI-Capable (C2WM0A)",
+    "price": "$299.99"
+  },
+  "B096N8CNBZ": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/31Yt+pSHuGL._SL500_.jpg",
+    "title": "Epson EcoTank ET-2800 Wireless Color All-in-One Cartridge-Free Ink Supertank Printer with Scan and Copy for Home Use, White",
+    "price": "$199.99"
+  },
+  "B096N85ZHW": {
+    "status": "FAIL",
+    "error": "[{\"code\":\"ItemNotAccessible\",\"message\":\"The ItemId B096N85ZHW is not accessible through the Product Advertising API.\"}]",
+    "replacement": "B0B1J5PYCF"
+  },
+  "B0B1J5PYCF": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41NRmd9wP9L._SL500_.jpg",
+    "title": "Epson EcoTank Wireless Color All-in-One Cartridge-Free ET-3850 Supertank Inkjet Printer for Home Office, Scanner, Copier, ADF and Ethernet, Mobile Printing, with Bonus Black Ink Bottle & USB Cable",
+    "price": "$473.00"
+  },
+  "B096N9JMXF": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/31r7o2eQ5TL._SL500_.jpg",
+    "title": "Epson EcoTank ET-4850 Wireless All-in-One Cartridge-Free Supertank with Scanner Copier, Fax, ADF and Ethernet, The Printer Office Printer - White",
+    "price": "$457.00"
+  },
+  "B08XZQVWZW": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/31W+8GDKNLL._SL500_.jpg",
+    "title": "Canon PIXMA G620 Wireless MegaTank Photo All-in-One Printer [Print, Copy, Scan], Black,Works with Alexa",
+    "price": "$299.00"
+  },
+  "B084TV6BVM": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/417kJNlHT6L._SL500_.jpg",
+    "title": "Epson EcoTank Pro ET-5800 Wireless Color All-in-One Supertank Printer with Scanner, Copier, Fax and Ethernet, White",
+    "price": "$799.99"
+  },
+  "B01MA3EYC5": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41+ONy0DNTL._SL500_.jpg",
+    "title": "Rollo USB Shipping Label Printer - Commercial Grade 4x6 Thermal Label Printer for Shipping Packages - High Speed Custom Sticker Label Maker for Small Business - Supports Windows & Mac",
+    "price": "$199.99"
+  },
+  "B09VF4Z2WQ": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/31zsmO4VVBL._SL500_.jpg",
+    "title": "Rollo Wireless Shipping Label Printer - Wi-Fi Thermal Label Printer 4x6 for Shipping Packages - AirPrint from iPhone, iPad, Mac - Supports Windows, Chromebook, Android, Linux",
+    "price": "$279.99"
+  },
+  "B0CP7STCSP": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41ffs1HVVlL._SL500_.jpg",
+    "title": "MUNBYN Bluetooth Thermal Label Printer, Wireless 4x6 Shipping Label Printer",
+    "price": "$79.99"
+  },
+  "B0BXXPHZLR": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41-iYNm+qrL._SL500_.jpg",
+    "title": "MUNBYN Bluetooth Thermal Label Printer, Wireless 4x6 Shipping Label Printer",
+    "price": "$79.99"
+  },
+  "B07S48NHYS": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41WyIBuh94L._SL500_.jpg",
+    "title": "MUNBYN RealWriter 941 Bluetooth USB 4x6 Shipping Thermal Label Printer",
+    "price": "$129.99"
+  },
+  "B099MLDBKJ": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41El+d9Kg4L._SL500_.jpg",
+    "title": "JADENS Bluetooth Thermal Shipping Label Printer – Wireless 4x6 Shipping Label Printer, Compatible with Android, iPhone, Windows & Mac, Widely Used for, Amazon, Shopify, Etsy, USPS(Blue)",
+    "price": "$69.98"
+  },
+  "B0DR86V4ZV": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41xn0LTTCWL._SL500_.jpg",
+    "title": "KNAON Bluetooth Thermal Shipping Label Printer, 4x6 Portable Thermal Address Label Printer for Small Business, Compatible with iPhone,Android,Windows,Mac–Works with Etsy Shopify USPS&More, White",
+    "price": "$49.99"
+  },
+  "B0DX6RVJF7": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/516JTpeV2EL._SL500_.jpg",
+    "title": "Thermal Shipping Label Printer 4x6 Bluetooth Label Maker for Small Business",
+    "price": "$56.60"
+  },
+  "B0BTYD7H28": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/51ZuCzq4JxL._SL500_.jpg",
+    "title": "Phomemo Bluetooth Thermal Label Printer, 241BT 4X6 Wireless Shipping Label Printer for Small Business, Pink Labels Printers for Shipping Package, Compatible with iPhone, Android, Shopify, Amazon, USPS",
+    "price": "$69.97"
+  },
+  "B0CXP3WZZC": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41tyWqsOuBL._SL500_.jpg",
+    "title": "MUNBYN Bluetooth Thermal Label Printer 941BP, Wireless 300DPI 4x6 Shipping Label Printer for Small Business Compatible with Windows, Mac, iPhone, Android, PC, Amazon, Shopify, Etsy, USPS (White)",
+    "price": "$139.99"
+  },
+  "B0FR97FJD8": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41Nz-C1elSL._SL500_.jpg",
+    "title": "Rongta Shipping Thermal Label Printer, Bluetooth 4x6 Sticker Label Maker Wireless Shipping Label Printer for Package Small Business Compatible with Windows macOS Android iOS (White)",
+    "price": "$36.99"
+  },
+  "B0FSKN56ZN": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41rJGsAElGL._SL500_.jpg",
+    "title": "Rongta Bluetooth Shipping Label Printer, Wireless 4x6 Thermal Label Printer for Shipping Packages, Support Android, iPhone, Widely Used for Amazon, Shopify, Etsy, UPS, Black",
+    "price": "$36.99"
+  },
+  "B0BSMSYM9N": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/31jPKfRqWSL._SL500_.jpg",
+    "title": "Canon MegaTank G3270 All-in-One Wireless Inkjet Printer, Home Use, Print, Scan and Copy",
+    "price": "$159.00"
+  },
+  "B00K5UZO0Q": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41GFXE7NdOL._SL500_.jpg",
+    "title": "Canon imageCLASS LBP6030w - Monochrome Single-Function Wireless Compact Wireless Laser Printer, 1 Year Limited Warranty, 19 PPM, White - Print Only",
+    "price": "$87.99"
+  },
+  "B0FDL1LS3B": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41RxYHHkJxL._SL500_.jpg",
+    "title": "HP Envy Photo 7975 Wireless Color Inkjet Photo Printer, Print, scan, Copy, Easy Setup, Mobile Printing, Best-for-Home, 3 Month Instant Ink Trial Included, AI-Enabled (B63K3A)",
+    "price": "$239.89"
+  },
+  "B08MSWMTN6": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41Gl2sOxX9L._SL500_.jpg",
+    "title": "VersaCheck HP DeskJet 3755 MX MICR Check Printer and VersaCheck Gold Check Printing Software Bundle, (3755MX)",
+    "price": "$216.02"
+  },
+  "B0DJWMNN2M": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41PDCUzgzrL._SL500_.jpg",
+    "title": "VersaCheck 4155 MXQ MICR All-in-One Color Check Printer and VersaCheck Gold Check Printing Software (Windows) Bundle",
+    "price": "$249.99"
+  },
+  "B0CNT2F4Q5": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/31WP4JM4puL._SL500_.jpg",
+    "title": "Rongta 80mm Thermal POS Receipt Printer with Auto Cutter for Small Business",
+    "price": "$79.99"
+  },
+  "B08V4H7T47": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/31ZmM7etUEL._SL500_.jpg",
+    "title": "Rongta POS Printer, 80mm USB Thermal Receipt Printer, Restaurant Kitchen Printer with Auto Cutter Support Cash Drawer,USB Serial Ethernet Interface for Windows/Mac/Linux,Do Not Square (RP326)",
+    "price": "$75.99"
+  },
+  "B0CL481GS1": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/31bM-Xs2inL._SL500_.jpg",
+    "title": "Sunydog Thermal Printer, Mini Thermal Receipt Printers, Portable USB Receipt Bill Ticket Printer with 58mm Print Paper Roll, Fit for Android for Win, Receipt Printer for Retail Sale Stores Restaurant",
+    "price": "$34.71"
+  },
+  "B0FGC43YCL": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41LqmhjzXHL._SL500_.jpg",
+    "title": "Brother Work Smart 1360 Wireless Color Inkjet All-in-One Printer with Automatic Duplex Printing and 1.8” Color Display | Includes Refresh Subscription Trial(1) (MFC-J1360DW) (Uses LC501 Series Inks)",
+    "price": "$109.98"
+  },
+  "B07W69LJ41": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41QF6tPh3FL._SL500_.jpg",
+    "title": "Canon PIXMA TS5320 All in One Wireless Printer, Scanner, Copier with AirPrint, White, Works with Alexa",
+    "price": "$113.49"
+  },
+  "B0F1Z1VLV6": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/31ZOqtUE8mL._SL500_.jpg",
+    "title": "Canon PIXMA TR160 Wireless Portable Lightweight Compact Printer, 50-Sheet Paper Tray and 1.44\" Display - Print On-The-Go",
+    "price": "$199.00"
+  },
+  "B0CYP944DP": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/51pOVkHzLVL._SL500_.jpg",
+    "title": "Gloryang Inkless Portable Printer for Travel, Wireless Thermal Printer Supports 8.5 x 11 Inch Thermal Paper, Bluetooth Machine Includes Carry Case and 3 Rolls of Paper Kit, Black",
+    "price": "$72.17"
+  },
+  "B0F9YBMJDV": {
+    "status": "OK",
+    "img": "https://m.media-amazon.com/images/I/41mTdQ1WgiL._SL500_.jpg",
+    "title": "NDYIN Portable Printers Wireless for Travel, N80 Wireless Thermal Printer Bluetooth Inkless Printer Support 8.5\" X 11\" US Letter & A4, Compatible with iOS, Laptop, Android",
+    "price": "$39.99"
+  }
+}

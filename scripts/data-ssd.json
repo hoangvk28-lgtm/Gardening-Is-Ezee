@@ -1,0 +1,1081 @@
+[
+  {
+    "asin": "B08HN37XC1",
+    "detailPageURL": "https://www.amazon.com/dp/B08HN37XC1?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 500,
+          "url": "https://m.media-amazon.com/images/I/41eTFK7clfL._SL500_.jpg",
+          "width": 217
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "Get NVMe solid state performance with up to 1050MB/s read and 1000MB/s write speeds in a portable, high-capacity drive(1) (Based on internal testing; performance may be lower depending on host device & other factors. 1MB=1,000,000 bytes.)",
+          "Up to 3-meter drop protection and IP65 water and dust resistance mean this tough drive can take a beating(3) (Previously rated for 2-meter drop protection and IP55 rating. Now qualified for the higher, stated specs.)",
+          "Use the handy carabiner loop to secure it to your belt loop or backpack for extra peace of mind.",
+          "Help keep private content private with the included password protection featuring 256‐bit AES hardware encryption.(3)",
+          "Easily manage files and automatically free up space with the SanDisk Memory Zone app.(5). Non-Operating Temperature -20°C to 85°C"
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "SANDISK 2TB Extreme Portable SSD (Old Model) - Up to 1050MB/s, USB-C, USB 3.2 Gen 2, IP65 Water and Dust Resistance, Updated Firmware - External Solid State Drive - SDSSDE61-2T00-G25",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 299.99,
+              "currency": "USD",
+              "displayAmount": "$299.99"
+            }
+          },
+          "violatesMAP": false
+        },
+        {
+          "isBuyBoxWinner": false,
+          "price": {
+            "money": {
+              "amount": 290.95,
+              "currency": "USD",
+              "displayAmount": "$290.95"
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B09VLK9W3S",
+    "detailPageURL": "https://www.amazon.com/dp/B09VLK9W3S?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 333,
+          "url": "https://m.media-amazon.com/images/I/21mARCvUWxL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "GO THE DISTANCE: Withstand whatever adventure with the wildly reliable T7 Shield; It’s designed for the elements with water1, dust2 and drop3 resistance—all, of course, at lightning speeds",
+          "YOUR CONTENT CAPTURED: Take on the project, then transfer all your heavy files within seconds with the USB 3.2 Gen 2 Portable Solid-State Drive; Compatible with PC, Mac, Android devices, gaming consoles and more",
+          "SHARE IDEAS IN A FLASH: The T7 is embedded with PCIe NVME technology that brings you fast read and write speeds up to 1,050/1,000 MB/s4, making it almost twice as fast as the T5",
+          "MAKE ROOM FOR MEMORIES: Forge your own path with a full range of storage capacities; Keep all your prized files in one place with options from 1TB to 4TB; Pack in more personal content or store your biggest tasks on this palm-sized SSD",
+          "BRAVE THE ELEMENTS: Get it done, rain or shine. With an IP65 rating for water1 and dust2 resistance, this SSD is ready to rough it; So even when you’ve got a dreary-day deadline, you can keep your projects in perfect condition",
+          "YOUR ADVENTURE'S ADVANTAGE: Secure the shot with the drop resistant T7 Shield. Its rugged design adds extra durability with protection from falls up to 9.8 feet so you can dare to reach higher5",
+          "SAMSUNG MAGICIAN SOFTWARE: Get the most out of your SSD with Samsung Magician's advanced yet intuitive optimization tools; Monitor drive health, protect valuable data, receive important updates and set up LED color combinations",
+          "WORLD’S #1 FLASH MEMORY BRAND: Performance and reliability from the world’s #1 brand for flash memory since 20036; All firmware and components are produced in-house, including our world renowned DRAM and NAND, for quality and you can trust",
+          "SUPPORTS iPHONE: Supports iPhone 15 Pro Res 4K at 60fps video and more7; Included SSD cable recommended"
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "Samsung T7 Shield Portable SSD 1TB, USB 3.2 Gen 2, Up to 1,050 MB/s",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 286.88,
+              "currency": "USD",
+              "displayAmount": "$286.88"
+            }
+          },
+          "violatesMAP": false
+        },
+        {
+          "isBuyBoxWinner": false,
+          "price": {
+            "money": {
+              "amount": 272.54,
+              "currency": "USD",
+              "displayAmount": "$272.54"
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B0874XN4D8",
+    "detailPageURL": "https://www.amazon.com/dp/B0874XN4D8?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 333,
+          "url": "https://m.media-amazon.com/images/I/31LdvAbumfL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "MADE FOR THE MAKERS: Create; Explore; Store; The T7 Portable SSD delivers fast speeds and durable features to back up any endeavor; Build your video editing empire, file your photographs or back up your blogs all in an instant",
+          "SHARE IDEAS IN A FLASH: Don’t waste a second waiting and spend more time doing; The T7 is embedded with PCIe NVMe technology that brings fast read and write speeds up to 1,050/1,000 MB/s¹, making it almost twice as fast as the T5",
+          "ALWAYS MAKE THE SAVE: Compact design with massive capacity; With capacities up to 4TB, save exactly what you need to your drive – from large working files to game data and everything in between",
+          "ADAPTS TO EVERY NEED: Whether using a PC or mobile phone, count on the T7 for extensive compatibility²; It’s a true team player when it comes to heavy-duty application usage or file-saving",
+          "HI RESOLUTION VIDEO RECORDING: Record Ultra High Resolution (4K 60fs) videos directly onto the T7 Portable SSD with your favorite camera or mobile devices; Supports iPhone 15 Pro Res 4K at 60fps video and more³",
+          "ALL FOR THE SHOT: This strong, sturdy sidekick will help you see it through with shock resistance and fall protection up to 6 feet⁴; With its solid aluminum unibody construction, it’s made to withstand any adventure",
+          "WORLD’S #1 FLASH MEMORY BRAND: Performance and reliability from the world’s #1 brand for flash memory since 2003⁵; All firmware and components are produced in-house, including our world renowned DRAM and NAND, for quality and you can trust"
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "Samsung T7 Portable SSD 1TB Titan Gray, USB 3.2 Gen 2, Up to 1,050MB/s",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 216.36,
+              "currency": "USD",
+              "displayAmount": "$216.36"
+            },
+            "savingBasis": {
+              "money": {
+                "amount": 274.99,
+                "currency": "USD",
+                "displayAmount": "$274.99"
+              },
+              "savingBasisType": "LIST_PRICE",
+              "savingBasisTypeLabel": "List Price:"
+            },
+            "savings": {
+              "money": {
+                "amount": 58.63,
+                "currency": "USD",
+                "displayAmount": "$58.63"
+              },
+              "percentage": 21
+            }
+          },
+          "violatesMAP": false
+        },
+        {
+          "isBuyBoxWinner": false,
+          "price": {
+            "money": {
+              "amount": 197.35,
+              "currency": "USD",
+              "displayAmount": "$197.35"
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B0C5JQ68FY",
+    "detailPageURL": "https://www.amazon.com/dp/B0C5JQ68FY?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 500,
+          "url": "https://m.media-amazon.com/images/I/41-T4nAAufL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "Solid state performance with up to 800MB/s read speeds in a portable drive. (Based on internal testing; performance may be lower depending on host device, interface, usage conditions and other factors. 1MB=1,000,000 bytes.)",
+          "Back up your content and memories on a storage solution that fits seamlessly into your mobile lifestyle.",
+          "Take it with you on your adventures—up to two-meter drop protection means this durable drive can take a beating. (Based on internal testing.)",
+          "Secure it to your belt loop or backpack for extra peace of mind thanks to the tough rubber hook.",
+          "From Sandisk, a brand professional photographers trust to take on assignments."
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "SANDISK 1TB Portable SSD - Up to 800MB/s, USB-C, USB 3.2 Gen 2, Updated Firmware - External Solid State Drive - SDSSDE30-1T00-G26",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 164.99,
+              "currency": "USD",
+              "displayAmount": "$164.99"
+            }
+          },
+          "violatesMAP": false
+        },
+        {
+          "isBuyBoxWinner": false,
+          "price": {
+            "money": {
+              "amount": 150,
+              "currency": "USD",
+              "displayAmount": "$150.00"
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B0BGL4SHY8",
+    "detailPageURL": "https://www.amazon.com/dp/B0BGL4SHY8?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 500,
+          "url": "https://m.media-amazon.com/images/I/31PngdJb7FL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "Capacity Reminder: Display capacity of 1TB SSD often appears as around 931GB on Windows. MacOS typically shows full 1TB. This display capacity reduction of 7% to 10% from SSD actual capacity is from algorithms differences in which 1GB is interpreted as 1024MB on Windows and 1000MB on SSDs",
+          "1050 MB/s Speed: Instantly access to your files with blazing-fast 10Gbps external SSD read up to 1050MB/s and write up to 1000MB/s. LED Light indicates USB SSD instant activity",
+          "Data Security: Master solid state drives health with S.M.A.R.T. monitoring. TRIM technology ensures consistent write speeds and extends the lifespan of the portable SSD",
+          "USB-C & USB-A Cable: Both USB-C and USB-A cables featuring rapid USB 3.2 Gen2, this USB SSD effortlessly bridges devices, enabling seamless cross-platform file transfers between computers, smartphones, tablets and Phones",
+          "Always Fast: No slowdowns during large file transfers. When transferring files smaller than 250GB, this external ssd remains steady 10Gbps with SLC caching (25%of the current available capacity is allocated for high speed cache)"
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "SSK Portable SSD 1TB External Solid State Hard Drive USB C Up to 1050MB/s",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 143.99,
+              "currency": "USD",
+              "displayAmount": "$143.99"
+            },
+            "savingBasis": {
+              "money": {
+                "amount": 159.99,
+                "currency": "USD",
+                "displayAmount": "$159.99"
+              },
+              "savingBasisType": "LIST_PRICE",
+              "savingBasisTypeLabel": "List Price:"
+            },
+            "savings": {
+              "money": {
+                "amount": 16,
+                "currency": "USD",
+                "displayAmount": "$16.00"
+              },
+              "percentage": 10
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B0F3377JBN",
+    "detailPageURL": "https://www.amazon.com/dp/B0F3377JBN?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 500,
+          "url": "https://m.media-amazon.com/images/I/312gFk3+1CL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "Ultra-fast Speeds: Designed for creators, students and PC gamers, this matte blue external SSD delivers fast data access with up to 2,100MB/s read speeds. Unlike a hard drive, SSDs offer significantly faster performance",
+          "Built to Last: Perfect for travel and all types of weather with IP65 dust and water resistance. Plus, it's drop resistant up to 9.8 ft (3 metres). This portable drive is designed for durability and reliability wherever you go",
+          "Broad Compatibility: External drive connects effortlessly with Windows, Mac, iPad Pro, Chromebooks, Android, Linux, PS4, PS5, and Xbox via USB-C and USB-A for easy and fast file transfers",
+          "Ultimate Storage Capacity: Store all your photos, videos, backups, and more with this compact external 1TB SSD. It's perfect for students, gamers, and everyday users needing secure and reliable storage for their files",
+          "Bonus Software Included: Enjoy three months of Mylio Photos plus and Acronis True Image when you purchase and register your external drive"
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "Crucial X10 1TB Portable SSD, Up to 2,100MB/s, USB 3.2 USB-C, External Solid State Drive, Compatible with Windows, Mac & Android, Durable Storage for Games, Photos & Files, Blue - CT1000X10SSD9-02",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 207.99,
+              "currency": "USD",
+              "displayAmount": "$207.99"
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B0CLV9GG54",
+    "detailPageURL": "https://www.amazon.com/dp/B0CLV9GG54?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 500,
+          "url": "https://m.media-amazon.com/images/I/31a33qlUGuL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "High-Speed Data Transfer: Thanks to increased transfer speeds of up to 2100MB/s, the USB 3.2 Gen2x2 type C interface can improve your work efficiency by providing large storage and quick data transfer.",
+          "Modern RGB Light Design: The 128-color breathing ambient lights on this external solid state drive contribute to its distinctive look and enable you to stand out in both professional and entertainment situations.",
+          "Increased Durability: In addition to improving heat dissipation and having an increased resistance to impact and wear, the zinc alloy casing also ensures product longevity and optimal performance, protecting your confidential information.",
+          "Versatile Usage: The external ssd is compatible with Andriod phones / laptops / TVs/ PCs/ playstation consoles; The lightweight design allows for on-the-go use, to meet mobile office storage requirements for both personal and professional. NOTE: It's NOT for APPLE IPHONE use, and the transfer speed is only up to 10Gbps while using in APPLE MACBOOK/IMAC etc.",
+          "Professional After-sales Service: KingSpec Portable External SSD comes with long-term technical support and a limited 3-year warranty. You have nothing to worry about while you enjoy the fun that KingSpec products bring."
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "KingSpec Z5 512GB External SSD - 2100MB/s, Portable Solid State Hard Drives with RGB Light, Zinc Alloy Case, USB 3.2 Gen2x2 Interface, Compatible with Mobile Phone/PS4/Laptop/TV/PC (512GB)",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 88.99,
+              "currency": "USD",
+              "displayAmount": "$88.99"
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B0GMWYYRQL",
+    "detailPageURL": "https://www.amazon.com/dp/B0GMWYYRQL?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 500,
+          "url": "https://m.media-amazon.com/images/I/41UpTn5oveL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "NEARLY 2X FASTER THAN OUR PREVIOUS GENERATION(8) – move 1,000 high-res photos in under 60 seconds(6) with up to 2000MB/s transfer speeds(2).",
+          "IP65 RATING AND UP TO 3M DROP PROTECTION(3) – protects against spills and drops.",
+          "POCKET-SIZED – fits easily in pockets and small bags.",
+          "SPACE TO OWN YOUR AI CONTENT – speed and capacity to download your high-res clips and photo edits.",
+          "256-BIT AES ENCRYPTION(4) – helps keep private files secure with password protection."
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "SANDISK 1TB Extreme Portable SSD (New Model) - up to 2000MB/s Transfer speeds, USB Type-C connectivity, Reliable Durability - Black - SDSSDE70-1T00-G25",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 239.99,
+              "currency": "USD",
+              "displayAmount": "$239.99"
+            },
+            "savingBasis": {
+              "money": {
+                "amount": 258.75,
+                "currency": "USD",
+                "displayAmount": "$258.75"
+              },
+              "savingBasisType": "WAS_PRICE",
+              "savingBasisTypeLabel": "Typical price:"
+            },
+            "savings": {
+              "money": {
+                "amount": 18.76,
+                "currency": "USD",
+                "displayAmount": "$18.76"
+              },
+              "percentage": 7
+            }
+          },
+          "violatesMAP": false
+        },
+        {
+          "isBuyBoxWinner": false,
+          "price": {
+            "money": {
+              "amount": 219,
+              "currency": "USD",
+              "displayAmount": "$219.00"
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B0FVMGFPHT",
+    "detailPageURL": "https://www.amazon.com/dp/B0FVMGFPHT?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 500,
+          "url": "https://m.media-amazon.com/images/I/21K3rg5MWlL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "Rugged, Environmentally Sealed Housing – A heavy-duty housing stands up to the rigors of daily use, with IP55 protection to keep your data safe from the elements",
+          "Unbelievable USB4 Speed on the Go – With transfer speeds rivaling internal drives – up to 40Gbps via USB4 – the EX400U SURVIVOR handles massive video files, game libraries, and creative workloads with ease",
+          "Plug-and-Play Simplicity – One USB Type-C cable handles both power and data – no drivers, no setup, just powerful storage right out of the box",
+          "Wide-Ranging Compatibility – The EX400U SURVIVOR achieves maximum performance on laptop and desktop hosts with USB4/Thunderbolt 4 ports, with additional support for iOS/iPadOS 13 and later devices with USB Type-C ports and backward compatibility with USB Type-C 3.2 *Performance varies by capacity, Maximum performance requires USB4 or higher connection",
+          "Blazing-Fast NVMe Performance – Enjoy up to 4,000MB/sec read and 3,600MB/sec write speeds to move and edit large files in record time *Performance varies by capacity, Maximum performance requires USB4 or higher connection"
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "Corsair EX400U Survivor 1TB USB4 External SSD – Up to 4000 MB/s, IP55 Rugged Drive, Plug & Play for PC, Mac & iPad – Black",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 238.58,
+              "currency": "USD",
+              "displayAmount": "$238.58"
+            },
+            "savingBasis": {
+              "money": {
+                "amount": 264.99,
+                "currency": "USD",
+                "displayAmount": "$264.99"
+              },
+              "savingBasisType": "LIST_PRICE",
+              "savingBasisTypeLabel": "List Price:"
+            },
+            "savings": {
+              "money": {
+                "amount": 26.41,
+                "currency": "USD",
+                "displayAmount": "$26.41"
+              },
+              "percentage": 10
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B0DR381N86",
+    "detailPageURL": "https://www.amazon.com/dp/B0DR381N86?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 500,
+          "url": "https://m.media-amazon.com/images/I/21F-0rmbcOL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "External SSD with USB4 Connection: Leverage the incredibly high bandwidth of USB4 to move large files for tasks like video and photo editing in seconds.",
+          "Lightning-Fast Speeds: Delivers data speeds of up to 4,000MB/sec sequential read and up to 3,600MB/sec sequential write.",
+          "Compatible with USB Type-C: Connect via USB Type-C, Thunderbolt 4 and higher for wide compatibility*. *Performance varies by capacity. Maximum performance requires USB4 or higher connection.",
+          "Compact Form Factor: Small form factor allows you to take the EX400U with you for high-performance storage on the go.",
+          "Simple Plug-and-Play Setup: Easy to use right out of the box with a single connection for power and data on PC or Mac."
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "Corsair EX400U 2TB USB4 Portable External Type-C SSD – Up to 4,000MB/s Read, 3,600MB/s Write, USB 3.2 Gen2 2x2, Plug and Play, Thunderbolt 4, MagSafe, Includes 40Gbps Cable, Windows PC, iOS Mac – Gray",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 399.99,
+              "currency": "USD",
+              "displayAmount": "$399.99"
+            },
+            "savingBasis": {
+              "money": {
+                "amount": 864.99,
+                "currency": "USD",
+                "displayAmount": "$864.99"
+              },
+              "savingBasisType": "LIST_PRICE",
+              "savingBasisTypeLabel": "List Price:"
+            },
+            "savings": {
+              "money": {
+                "amount": 465,
+                "currency": "USD",
+                "displayAmount": "$465.00"
+              },
+              "percentage": 54
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B08Y1Q2KSZ",
+    "detailPageURL": "https://www.amazon.com/dp/B08Y1Q2KSZ?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 500,
+          "url": "https://m.media-amazon.com/images/I/31+UCQHBazL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "BUILD YOUR GAME VAULT 2TB of capacity to build the ultimate Game Vault without sacrificing titles. Store your library to seamless move games between your internal storage and your Seagate External Game Drive.",
+          "XBOX-CERTIFIED Compatible with Xbox Series X, Xbox Series S, and all generations of Xbox One.",
+          "BRILLIANT DESIGN A bold and refined design, crafted to compliment your Xbox",
+          "LIGHT IT UP A built-in LED bar illuminates your gaming center in Xbox green",
+          "WARRANTY Enjoy peace of mind with the included 3-year Rescue Data Recovery Services and 1-year limited warranty"
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "Seagate 2TB Game Drive for Xbox | USB 3.0 (STKX2000400)",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 119.99,
+              "currency": "USD",
+              "displayAmount": "$119.99"
+            },
+            "savingBasis": {
+              "money": {
+                "amount": 139.99,
+                "currency": "USD",
+                "displayAmount": "$139.99"
+              },
+              "savingBasisType": "LIST_PRICE",
+              "savingBasisTypeLabel": "List Price:"
+            },
+            "savings": {
+              "money": {
+                "amount": 20,
+                "currency": "USD",
+                "displayAmount": "$20.00"
+              },
+              "percentage": 14
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B0FVMLZJ1D",
+    "detailPageURL": "https://www.amazon.com/dp/B0FVMLZJ1D?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 500,
+          "url": "https://m.media-amazon.com/images/I/21K3rg5MWlL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "Rugged, Environmentally Sealed Housing – A heavy-duty housing stands up to the rigors of daily use, with IP55 protection to keep your data safe from the elements",
+          "Unbelievable USB4 Speed on the Go – With transfer speeds rivaling internal drives – up to 40Gbps via USB4 – the EX400U SURVIVOR handles massive video files, game libraries, and creative workloads with ease",
+          "Plug-and-Play Simplicity – One USB Type-C cable handles both power and data – no drivers, no setup, just powerful storage right out of the box",
+          "Wide-Ranging Compatibility – The EX400U SURVIVOR achieves maximum performance on laptop and desktop hosts with USB4/Thunderbolt 4 ports, with additional support for iOS/iPadOS 13 and later devices with USB Type-C ports and backward compatibility with USB Type-C 3.2 *Performance varies by capacity, Maximum performance requires USB4 or higher connection",
+          "Blazing-Fast NVMe Performance – Enjoy up to 4,000MB/sec read and 3,600MB/sec write speeds to move and edit large files in record time *Performance varies by capacity, Maximum performance requires USB4 or higher connection"
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "Corsair EX400U Survivor 2TB USB4 External SSD – Up to 4000 MB/s, IP55 Rugged Drive, Plug & Play for PC, Mac & iPad – Black",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 429.99,
+              "currency": "USD",
+              "displayAmount": "$429.99"
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B0F7NZJ1SK",
+    "detailPageURL": "https://www.amazon.com/dp/B0F7NZJ1SK?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 500,
+          "url": "https://m.media-amazon.com/images/I/41Kx15NoFzL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "Ultra-Fast Thunderbolt 5 Performance: Achieve up to 64Gbps transfer speeds with 80Gbps connection via Thunderbolt 5 for seamless high-speed data access, large file transfers, and demanding workloads.",
+          "Broad Compatibility with Older Devices: Backward compatible with Thunderbolt 3, Thunderbolt 4, and USB4 at 10, 20, or 40Gbps. USB fallback supports 20Gbps (USB 3.2 Gen 2x2), 10Gbps, and 5Gbps for wide device coverage.",
+          "Rugged and Durable Construction: Built with an aluminum body for heat dissipation and durability. Includes a silicone sleeve for enhanced drop protection and resistance to environmental hazards.",
+          "Plug and Play, No External Power Needed: Bus-powered for easy use without external adapters. Comes with a premium Thunderbolt cable for hassle-free, high-performance connections on the go.",
+          "Reliable, Future-Proof Storage Solution: Ideal for creators, professionals, and gamers. Designed to support evolving hardware and deliver long-term, versatile high-speed storage for any workflow."
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "SABRENT Rocket XTRM 5 2TB Thunderbolt 5 Portable SSD, 80Gbps Connection, Up to 64Gbps Transfer, Compatible with TB4 TB3 USB4 USB 3.2 20Gbps 10Gbps 5Gbps, Rugged Aluminum and Silicone (SB-XTM5-2TB)",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 399.99,
+              "currency": "USD",
+              "displayAmount": "$399.99"
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B09VLHR4JC",
+    "detailPageURL": "https://www.amazon.com/dp/B09VLHR4JC?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 333,
+          "url": "https://m.media-amazon.com/images/I/21mARCvUWxL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "GO THE DISTANCE: Withstand whatever adventure with the wildly reliable T7 Shield; It’s designed for the elements with water1, dust2 and drop3 resistance—all, of course, at lightning speeds",
+          "YOUR CONTENT CAPTURED: Take on the project, then transfer all your heavy files within seconds with the USB 3.2 Gen 2 Portable Solid-State Drive; Compatible with PC, Mac, Android devices, gaming consoles and more",
+          "SHARE IDEAS IN A FLASH: The T7 is embedded with PCIe NVME technology that brings you fast read and write speeds up to 1,050/1,000 MB/s4, making it almost twice as fast as the T5",
+          "MAKE ROOM FOR MEMORIES: Forge your own path with a full range of storage capacities; Keep all your prized files in one place with options from 1TB to 4TB; Pack in more personal content or store your biggest tasks on this palm-sized SSD",
+          "BRAVE THE ELEMENTS: Get it done, rain or shine. With an IP65 rating for water1 and dust2 resistance, this SSD is ready to rough it; So even when you’ve got a dreary-day deadline, you can keep your projects in perfect condition",
+          "YOUR ADVENTURE'S ADVANTAGE: Secure the shot with the drop resistant T7 Shield. Its rugged design adds extra durability with protection from falls up to 9.8 feet so you can dare to reach higher5",
+          "SAMSUNG MAGICIAN SOFTWARE: Get the most out of your SSD with Samsung Magician's advanced yet intuitive optimization tools; Monitor drive health, protect valuable data, receive important updates and set up LED color combinations",
+          "WORLD’S #1 FLASH MEMORY BRAND: Performance and reliability from the world’s #1 brand for flash memory since 20036; All firmware and components are produced in-house, including our world renowned DRAM and NAND, for quality and you can trust",
+          "SUPPORTS iPHONE: Supports iPhone 15 Pro Res 4K at 60fps video and more7; Included SSD cable recommended. Operating Temperature 0°C to 60°C"
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "Samsung T7 Shield Portable SSD 2TB, USB 3.2 Gen 2, Up to 1,050 MB/s",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 399.75,
+              "currency": "USD",
+              "displayAmount": "$399.75"
+            },
+            "savingBasis": {
+              "money": {
+                "amount": 574.99,
+                "currency": "USD",
+                "displayAmount": "$574.99"
+              },
+              "savingBasisType": "LIST_PRICE",
+              "savingBasisTypeLabel": "List Price:"
+            },
+            "savings": {
+              "money": {
+                "amount": 175.24,
+                "currency": "USD",
+                "displayAmount": "$175.24"
+              },
+              "percentage": 30
+            }
+          },
+          "violatesMAP": false
+        },
+        {
+          "isBuyBoxWinner": false,
+          "price": {
+            "money": {
+              "amount": 349,
+              "currency": "USD",
+              "displayAmount": "$349.00"
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B0C3B32H9M",
+    "detailPageURL": "https://www.amazon.com/dp/B0C3B32H9M?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 500,
+          "url": "https://m.media-amazon.com/images/I/31HBU-HAxoL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "Blazing Fast 1050MB/s Speed : Experience ultra-fast 10Gbps transfer speeds with cutting-edge SLC Cache technology, delivering up to 1050MB/s read and 950MB/s write speeds. Ideal for quickly transferring large files, gaming data, and high-resolution photos or 4K videos.",
+          "Universal Compatibility : Compatible with Steam Deck, ROG Ally, MSI Claw, Windows, Mac, iPhone, iPad, Android, PS5, Xbox, laptops, and more. Works with USB 3.2, USB 3.0, and USB 2.0. Pre-formatted as exFAT for seamless plug-and-play across multiple operating systems (Windows, Linux, macOS, and Android). (Not compatible with iPhone's Lightning port.)",
+          "2-in-1 Dual USB-C & USB-A Design : Equipped with both USB-C and USB-A 3.2 ports, this dual-interface SSD makes data transfer effortless across smartphones, tablets, MacBooks, Windows PCs, and more. Instantly free up space or transfer files between Android Type-C phones, Tesla dashcams, smart TVs, and car audio systems.",
+          "Ultra-Portable & Lightweight : Weighing just 0.02 lb with a tiny 2.81 × 0.79 × 0.31-inch form factor, this compact SSD is the perfect travel companion. No more bulky external drives—take your high-speed storage anywhere, whether you're a professional on the go or a gamer needing extra space.",
+          "Secure One-Time Password (OTP) Protection : Forgot your password? No worries! The OTP function via Transcend Elite software allows you to receive a one-time password via email, ensuring you always have access to your data."
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "Transcend ESD310 1TB External SSD, Up to 1,050MB/s, Dual USB Drive for iPhone17,16,15, iPad&Mac/Pixel10/Tesla/Steam Deck/ROG Ally/MSI Claw/Android/PS5, 2-in-1 Type C &A, USB 3.2 Gen2 Portable SSD",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 239.99,
+              "currency": "USD",
+              "displayAmount": "$239.99"
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B09BJYXMDW",
+    "detailPageURL": "https://www.amazon.com/dp/B09BJYXMDW?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 500,
+          "url": "https://m.media-amazon.com/images/I/316Its027kL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "Designed in partnership with Xbox to seamlessly play Xbox Series X|S games from the internal SSD or the expansion card without sacrificing graphics, latency, load times or framerates.",
+          "Every game that plays from the Storage Expansion Card for Xbox Series X|S plays at the same peak levels as the console’s internal SSD. That includes thousands of Original Xbox, Xbox 360, and Xbox One games.",
+          "Officially licensed storage expansion card designed using Xbox Velocity Architecture to provide faster load times, richer environments and more immersive game play.",
+          "Quick resume means gamers can switch between multiple titles in seconds — directly from the internal SSD or the expansion card.",
+          "Enjoy long-term peace of mind with the included 3-year limited warranty."
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "Seagate Storage Expansion Card 2TB Solid State Drive - NVMe SSD for Xbox Series X|S, Quick Resume, Plug & Play, Licensed (STJR2000400) Black",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B09ZRD38D8",
+    "detailPageURL": "https://www.amazon.com/dp/B09ZRD38D8?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 500,
+          "url": "https://m.media-amazon.com/images/I/31szhVvwXYL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "Customize your drive’s RGB lighting with the downloadable WD_BLACK Dashboard (Windows only) to show off your style and make every play personal.",
+          "Kick loading into overdrive with a USB 3.2 Gen2x2 interface and speeds up to 2,000MB/s. (Based on read speed. 1 MB/s = 1 million bytes per second. Based on internal testing; performance may vary depending upon host device, usage conditions, drive capacity, and other factors.)",
+          "Compatible with PlayStation 5 and Xbox Series X|S consoles. {Compatible with PlayStation 4 Pro or PS4 with system software version 4.50 or higher, PlayStation 5 (Play and store PS4 games; archive PS5 games), Xbox One, and Xbox Series X|S (Play and store Xbox One games; archive Xbox Series X|S games).}",
+          "Keep more of the latest and largest titles installed and ready to launch with capacities of up to 2TB. (1TB = 1 trillion bytes. Actual user capacity may be less depending on operating environment.)",
+          "Built with WD_BLACK toughness thanks to a shock-resistant structure, this durable drive can survive a drop of up to two-meters."
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "Western Digital 1TB P40 Game Drive SSD - Up to 2,000MB/s, RGB Lighting, Portable External Solid State Drive , Compatible with Playstation, Xbox, PC, & Mac - WDBAWY0010BBK-WESN",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 177.99,
+              "currency": "USD",
+              "displayAmount": "$177.99"
+            },
+            "savingBasis": {
+              "money": {
+                "amount": 209.99,
+                "currency": "USD",
+                "displayAmount": "$209.99"
+              },
+              "savingBasisType": "WAS_PRICE",
+              "savingBasisTypeLabel": "Typical price:"
+            },
+            "savings": {
+              "money": {
+                "amount": 32,
+                "currency": "USD",
+                "displayAmount": "$32.00"
+              },
+              "percentage": 15
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B0F37WWYY4",
+    "detailPageURL": "https://www.amazon.com/dp/B0F37WWYY4?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 500,
+          "url": "https://m.media-amazon.com/images/I/21tLuKTwQpL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "High-speed Data Transfer: Lexar external SSD ES3 supports USB 3.2 Gen 2 up to 1050MB/s read and 1000MB/s write to transfer files fast for more efficient work. (Performance may be lower if not supporting USB 3.2 Gen 2 on Mac and other systems)",
+          "Wide Compatibility: Lexar Portable SSD ES3 compatibility with iPhone 17 series (Not supported on iPhone 14 and older models), Android mobile devices, laptops, cameras, Xbox X|S, PS4, PS5, gaming console, and more",
+          "On The Go: Lexar external solid state drive ES3's thin, stylish, and durable design, weighs 42g and is only 10.5mm thick, making it smaller than a card and easily fits in your pocket. It comes with a Type-C cable for plug-and-play convenience",
+          "Data Safety First: Lexar SSD ES3 includes Lexar DataShieldTM 256-bit AES encryption software to protect files",
+          "Note: Magsafe is not available in this version"
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "Lexar ES3 1TB Portable SSD Blue, USB 3.2 Gen 2 up to 1050MB/s",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 169.99,
+              "currency": "USD",
+              "displayAmount": "$169.99"
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  },
+  {
+    "asin": "B0DYDHLN81",
+    "detailPageURL": "https://www.amazon.com/dp/B0DYDHLN81?tag=theofficejournal-20&linkCode=ogi&th=1&psc=1",
+    "images": {
+      "primary": {
+        "large": {
+          "height": 500,
+          "url": "https://m.media-amazon.com/images/I/21RG2dX41kL._SL500_.jpg",
+          "width": 500
+        }
+      }
+    },
+    "itemInfo": {
+      "features": {
+        "displayValues": [
+          "Note: Magsafe is not available in this version",
+          "High-speed Data Transfer: Lexar external SSD ES3 supports USB 3.2 Gen 2 up to 1050MB/s read and 1000MB/s write to transfer files fast for more efficient work. (Performance may be lower if not supporting USB 3.2 Gen 2 on Mac and other systems)",
+          "Wide Compatibility: Lexar Portable SSD ES3 compatibility with iPhone 17 series (Not supported on iPhone 14 and older models), Android mobile devices, laptops, cameras, Xbox X|S, PS4, PS5, gaming console, and more",
+          "On The Go: Lexar external solid state drive ES3's thin, stylish, and durable design, weighs 42g and is only 10.5mm thick, making it smaller than a card and easily fits in your pocket. It comes with a Type-C cable for plug-and-play convenience",
+          "Data Safety First: Lexar SSD ES3 includes Lexar DataShieldTM 256-bit AES encryption software to protect files"
+        ],
+        "label": "Features",
+        "locale": "en_US"
+      },
+      "title": {
+        "displayValue": "Lexar ES3 1TB Portable SSD Silver, USB 3.2 Gen 2 up to 1050MB/s",
+        "label": "Title",
+        "locale": "en_US"
+      }
+    },
+    "offersV2": {
+      "listings": [
+        {
+          "isBuyBoxWinner": true,
+          "price": {
+            "money": {
+              "amount": 169.99,
+              "currency": "USD",
+              "displayAmount": "$169.99"
+            }
+          },
+          "violatesMAP": false
+        }
+      ]
+    }
+  }
+]
