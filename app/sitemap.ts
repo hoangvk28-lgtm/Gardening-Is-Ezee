@@ -5,6 +5,7 @@ import { guides as staticGuides } from "@/data/guides";
 import { isSupabaseConfigured } from "@/lib/supabase/server";
 import { silos } from "@/data/silos";
 import { siloForGuide } from "@/lib/migrated-silos";
+import { informationalGuides } from "@/data/informational-guides";
 
 // Try to load published slugs from Supabase; merge with static data so no slug is ever missing.
 async function getPublishedProductSlugs(): Promise<{ slug: string; updatedAt: string }[]> {
@@ -119,6 +120,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     };
   });
 
+  const informationalPages: MetadataRoute.Sitemap = informationalGuides.map((guide) => ({
+    url: `${SITE_URL}/${guide.silo}/${guide.slug}`,
+    lastModified: guide.lastUpdated,
+    changeFrequency: "yearly",
+    priority: 0.75,
+  }));
+
   // Static VS compare articles (not category-based)
   const vsComparePages: MetadataRoute.Sitemap = [
   ];
@@ -127,6 +135,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ...staticPages,
     ...siloPages,
     ...guidePages,
+    ...informationalPages,
     ...vsComparePages,
   ];
 }
