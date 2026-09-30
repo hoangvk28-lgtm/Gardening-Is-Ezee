@@ -1,4 +1,5 @@
 import { additionalInformationalGuides } from "./additional-informational-guides";
+import { nextInformationalGuides } from "./next-informational-guides";
 
 export type InformationalSilo = "growing" | "garden-tools" | "lawn-care" | "watering" | "yard-cleanup";
 
@@ -32,6 +33,7 @@ export interface InformationalGuide {
 const updated = "2026-09-29";
 
 export const informationalGuides: InformationalGuide[] = [
+  ...nextInformationalGuides,
   ...additionalInformationalGuides,
   {
     slug: "how-deep-should-a-raised-garden-bed-be",
