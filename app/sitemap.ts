@@ -86,6 +86,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const now = new Date().toISOString();
 
   const guideSlugs = await getPublishedGuideSlugs();
+  const informationalSlugs = new Set(informationalGuides.map((guide) => guide.slug));
 
   // Static pages
   const staticPages: MetadataRoute.Sitemap = [
@@ -110,7 +111,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // category/subcategory has been migrated into a silo lives at its final
   // /<silo>/<slug> URL here — never list the legacy /guide/<slug> URL, which
   // now just 308-redirects there.
-  const guidePages: MetadataRoute.Sitemap = guideSlugs.map(({ slug, updatedAt, categorySlug, subcategorySlug }) => {
+  const guidePages: MetadataRoute.Sitemap = guideSlugs.filter(({ slug }) => !informationalSlugs.has(slug)).map(({ slug, updatedAt, categorySlug, subcategorySlug }) => {
     const silo = siloForGuide(categorySlug, subcategorySlug);
     return {
       url: silo ? `${SITE_URL}/${silo}/${slug}` : `${SITE_URL}/guide/${slug}`,
