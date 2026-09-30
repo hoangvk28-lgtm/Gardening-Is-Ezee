@@ -1,4 +1,4 @@
-export type InformationalSilo = "growing" | "garden-tools" | "lawn-care" | "watering";
+export type InformationalSilo = "growing" | "garden-tools" | "lawn-care" | "watering" | "yard-cleanup";
 
 export interface InformationalSection {
   heading: string;
@@ -21,6 +21,10 @@ export interface InformationalGuide {
   faq: { question: string; answer: string }[];
   sources: { label: string; href: string }[];
   related: { title: string; href: string }[];
+  /** Full long-form Markdown stored under public/content/informational. */
+  contentFile?: string;
+  /** Original editorial diagram used for social sharing and in-article context. */
+  heroImage?: string;
 }
 
 const updated = "2026-09-29";
@@ -30,12 +34,14 @@ export const informationalGuides: InformationalGuide[] = [
     slug: "how-deep-should-a-raised-garden-bed-be",
     silo: "growing",
     title: "How Deep Should a Raised Garden Bed Be?",
-    metaTitle: "How Deep Should a Raised Garden Bed Be? A Practical Depth Guide",
-    description: "Choose the right raised-bed depth for vegetables, root crops, poor native soil and accessible gardening without buying more soil than you need.",
-    dek: "The useful depth is the amount of loose, plantable soil roots can actually reach—not simply the height of the frame.",
+    metaTitle: "How Deep Should a Raised Garden Bed Be?",
+    description: "Choose raised-bed depth by crops, usable rooting space, drainage, and access. Understand the difference between open-bottom beds and planters.",
+    dek: "Choose raised-bed depth by the crops, usable rooting space, drainage and access—not by frame height alone.",
     directAnswer: "For many annual vegetables, 8 to 12 inches of loose growing medium over workable native soil is a practical starting point. Use 12 to 18 inches when the ground below is compacted, contaminated or paved, and consider 24 inches or more when the bed also needs to reduce bending or accommodate seated access.",
-    readTime: "7 min",
-    lastUpdated: updated,
+    readTime: "16 min",
+    lastUpdated: "2026-09-30",
+    contentFile: "05-how-deep-should-a-raised-bed-be.md",
+    heroImage: "/images/informational/05-raised-bed-depth.png",
     keyTakeaways: [
       "Count usable root depth, including loosened soil below an open-bottom bed.",
       "Deep-rooted crops benefit from 10 to 12 inches or more of improved soil.",
@@ -371,6 +377,114 @@ export const informationalGuides: InformationalGuide[] = [
       { title: "Best Garden Hoses", href: "/watering/best-garden-hoses" },
       { title: "Best Retractable Garden Hose Reels", href: "/watering/best-retractable-garden-hose-reels" },
     ],
+  },
+  {
+    slug: "soaker-hose-vs-drip-irrigation",
+    silo: "watering",
+    title: "Soaker Hose vs Drip Irrigation: Which Fits Your Garden?",
+    metaTitle: "Soaker Hose vs Drip Irrigation: Which Fits Your Garden?",
+    description: "Compare soaker hoses and drip irrigation for beds, pots, and sloping gardens. Choose a practical layout, test coverage, and plan maintenance.",
+    dek: "Compare the complete watering layout—not just the line at the soil surface—to decide which system fits your beds, containers and maintenance routine.",
+    directAnswer: "", readTime: "16 min", lastUpdated: "2026-09-30",
+    keyTakeaways: [], sections: [], faq: [], sources: [], related: [],
+    contentFile: "01-soaker-hose-vs-drip-irrigation.md",
+    heroImage: "/images/informational/01-soaker-vs-drip.png",
+  },
+  {
+    slug: "how-to-choose-a-garden-hose",
+    silo: "watering",
+    title: "How to Choose a Garden Hose: Length, Diameter, and Material",
+    metaTitle: "How to Choose a Garden Hose: Length, Diameter, and Material",
+    description: "Choose a garden hose by route length, internal diameter, material, fittings, and storage. Includes flow checks and a practical buying checklist.",
+    dek: "Start with the route, water demand and storage method, then compare hose construction and fittings around that real job.",
+    directAnswer: "", readTime: "16 min", lastUpdated: "2026-09-30",
+    keyTakeaways: [], sections: [], faq: [], sources: [], related: [],
+    contentFile: "02-how-to-choose-a-garden-hose.md",
+    heroImage: "/images/informational/02-hose-selection.png",
+  },
+  {
+    slug: "garden-hose-timer-not-working",
+    silo: "watering",
+    title: "Garden Hose Timer Not Working? A Troubleshooting Checklist",
+    metaTitle: "Garden Hose Timer Not Working? Troubleshooting Checklist",
+    description: "Troubleshoot a hose timer with no display, missed cycles, weak flow, leaks, or a valve that will not close. Follow model-specific instructions.",
+    dek: "Isolate the power, supply, programming and valve one at a time before resetting or replacing the timer.",
+    directAnswer: "", readTime: "16 min", lastUpdated: "2026-09-30",
+    keyTakeaways: [], sections: [], faq: [], sources: [], related: [],
+    contentFile: "03-garden-hose-timer-not-working.md",
+    heroImage: "/images/informational/03-timer-checklist.png",
+  },
+  {
+    slug: "how-to-set-up-drip-irrigation-for-raised-beds",
+    silo: "watering",
+    title: "How to Set Up Drip Irrigation for Raised Beds",
+    metaTitle: "How to Set Up Drip Irrigation for Raised Beds",
+    description: "Plan and install drip irrigation for raised beds, from source checks and compatible parts to coverage testing, schedules, and maintenance.",
+    dek: "Plan the source, zones and wetting pattern on paper before buying fittings or fastening tubing inside the beds.",
+    directAnswer: "", readTime: "16 min", lastUpdated: "2026-09-30",
+    keyTakeaways: [], sections: [], faq: [], sources: [], related: [],
+    contentFile: "04-drip-irrigation-for-raised-beds.md",
+    heroImage: "/images/informational/04-raised-bed-drip.png",
+  },
+  {
+    slug: "how-much-soil-for-a-raised-bed",
+    silo: "growing",
+    title: "How Much Soil Do You Need for a Raised Bed?",
+    metaTitle: "How Much Soil for a Raised Bed? Calculator and Tables",
+    description: "Calculate raised-bed soil volume in cubic feet, yards, or liters. Includes checked size tables, bag counts, top-up examples, and ordering advice.",
+    dek: "Measure the usable interior, calculate volume in one unit and separate planting mix from mulch before ordering.",
+    directAnswer: "", readTime: "16 min", lastUpdated: "2026-09-30",
+    keyTakeaways: [], sections: [], faq: [], sources: [], related: [],
+    contentFile: "06-how-much-soil-for-a-raised-bed.md",
+    heroImage: "/images/informational/06-soil-volume.png",
+  },
+  {
+    slug: "compost-tumbler-vs-compost-bin",
+    silo: "growing",
+    title: "Compost Tumbler vs Compost Bin: Which Fits Your Yard?",
+    metaTitle: "Compost Tumbler vs Compost Bin: Which Fits Your Yard?",
+    description: "Compare compost tumblers and bins by usable capacity, access, materials, batch routine, and harvesting. Choose the system that fits your yard.",
+    dek: "The better system is the one that fits your material volume, batch routine, turning method and plan for harvesting finished compost.",
+    directAnswer: "", readTime: "16 min", lastUpdated: "2026-09-30",
+    keyTakeaways: [], sections: [], faq: [], sources: [], related: [],
+    contentFile: "07-compost-tumbler-vs-compost-bin.md",
+    heroImage: "/images/informational/07-tumbler-vs-bin.png",
+  },
+  {
+    slug: "compost-tumbler-not-heating-up",
+    silo: "growing",
+    title: "Why Is My Compost Tumbler Not Heating Up?",
+    metaTitle: "Why Is My Compost Tumbler Not Heating Up?",
+    description: "Diagnose a cool compost tumbler by batch volume, moisture, materials, structure, and stage. Learn when slow composting is normal.",
+    dek: "A cool tumbler is not automatically broken; diagnose batch size, moisture, material balance and stage before changing several things at once.",
+    directAnswer: "", readTime: "16 min", lastUpdated: "2026-09-30",
+    keyTakeaways: [], sections: [], faq: [], sources: [], related: [],
+    contentFile: "08-compost-tumbler-not-heating-up.md",
+    heroImage: "/images/informational/08-compost-diagnosis.png",
+  },
+  {
+    slug: "dethatching-vs-aerating",
+    silo: "lawn-care",
+    title: "Dethatching vs Aerating: What Does Your Lawn Need?",
+    metaTitle: "Dethatching vs Aerating: What Does Your Lawn Need?",
+    description: "Understand dethatching and core aeration, inspect the lawn, and choose treatment timing by grass type and local conditions before buying tools.",
+    dek: "Dethatching removes an excessive organic layer; core aeration relieves compacted soil. Inspect the lawn before choosing either treatment.",
+    directAnswer: "", readTime: "16 min", lastUpdated: "2026-09-30",
+    keyTakeaways: [], sections: [], faq: [], sources: [], related: [],
+    contentFile: "09-dethatching-vs-aerating.md",
+    heroImage: "/images/informational/09-dethatch-vs-aerate.png",
+  },
+  {
+    slug: "leaf-blower-cfm-vs-mph",
+    silo: "yard-cleanup",
+    title: "Leaf Blower CFM vs MPH: What Matters for Your Yard?",
+    metaTitle: "Leaf Blower CFM vs MPH: What Matters for Your Yard?",
+    description: "Understand leaf blower CFM, MPH, force, nozzles, and runtime. Compare useful working specifications instead of isolated peak numbers.",
+    dek: "CFM describes air volume and MPH describes speed; neither number alone captures how a blower will move your particular debris.",
+    directAnswer: "", readTime: "16 min", lastUpdated: "2026-09-30",
+    keyTakeaways: [], sections: [], faq: [], sources: [], related: [],
+    contentFile: "10-leaf-blower-cfm-vs-mph.md",
+    heroImage: "/images/informational/10-cfm-vs-mph.png",
   },
 ];
 

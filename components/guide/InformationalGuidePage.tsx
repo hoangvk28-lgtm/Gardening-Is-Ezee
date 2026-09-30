@@ -1,12 +1,56 @@
 import Link from "next/link";
+import { readFileSync } from "node:fs";
+import path from "node:path";
 import { SITE_NAME, SITE_URL } from "@/lib/seo";
 import { formatDate } from "@/lib/utils";
+import { markdownToHtml } from "@/lib/markdown";
 import { getSiloBySlug } from "@/data/silos";
 import type { InformationalGuide } from "@/data/informational-guides";
+import { RichContent } from "@/components/ui/RichContent";
+
+function headingId(value: string) {
+  return value
+    .toLowerCase()
+    .replace(/<[^>]*>/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
+function plainText(value: string) {
+  return value
+    .replace(/!\[[^\]]*\]\([^)]+\)/g, "")
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+    .replace(/[*_`>#-]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function extractFaq(markdown: string) {
+  const block = markdown.match(/## Frequently asked questions\s*\n([\s\S]*?)(?=\n## |$)/i)?.[1] ?? "";
+  return [...block.matchAll(/^### (.+)\n([\s\S]*?)(?=\n### |$)/gm)].map((match) => ({
+    question: plainText(match[1]),
+    answer: plainText(match[2]),
+  }));
+}
+
+function prepareImportedContent(contentFile: string) {
+  const fullPath = path.join(process.cwd(), "public", "content", "informational", contentFile);
+  const markdown = readFileSync(fullPath, "utf8").replace(/^# .+\n+/, "");
+  const toc = [...markdown.matchAll(/^## (.+)$/gm)].map((match) => ({
+    label: plainText(match[1]),
+    id: headingId(plainText(match[1])),
+  }));
+  let html = markdownToHtml(markdown);
+  html = html.replace(/<h2>([\s\S]*?)<\/h2>/g, (_match, label: string) => `<h2 id="${headingId(label)}">${label}</h2>`);
+  return { html, toc, faq: extractFaq(markdown) };
+}
 
 export function InformationalGuidePage({ guide }: { guide: InformationalGuide }) {
   const silo = getSiloBySlug(guide.silo)!;
   const canonicalUrl = `${SITE_URL}/${guide.silo}/${guide.slug}`;
+  const imported = guide.contentFile ? prepareImportedContent(guide.contentFile) : null;
+  const faqItems = imported?.faq.length ? imported.faq : guide.faq;
+  const tocItems = imported?.toc ?? guide.sections.map((section, index) => ({ label: section.heading, id: `section-${index + 1}` }));
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -21,7 +65,7 @@ export function InformationalGuidePage({ guide }: { guide: InformationalGuide })
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    mainEntity: guide.faq.map((item) => ({
+    mainEntity: faqItems.map((item) => ({
       "@type": "Question",
       name: item.question,
       acceptedAnswer: { "@type": "Answer", text: item.answer },
@@ -40,7 +84,7 @@ export function InformationalGuidePage({ guide }: { guide: InformationalGuide })
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      {faqItems.length > 0 && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
 
       <article className="mx-auto w-full max-w-[1080px] px-4 pb-20 pt-6 sm:px-6 lg:px-8 lg:pt-10">
@@ -67,6 +111,10 @@ export function InformationalGuidePage({ guide }: { guide: InformationalGuide })
 
         <div className="mt-10 lg:grid lg:grid-cols-[minmax(0,720px)_220px] lg:justify-between lg:gap-14">
           <div className="min-w-0">
+            {imported ? (
+              <RichContent html={imported.html} className="informational-longform" />
+            ) : (
+              <>
             <section aria-labelledby="quick-answer" className="border-l-4 border-brand bg-surface px-5 py-5 sm:px-7">
               <p className="eyebrow">Quick answer</p>
               <h2 id="quick-answer" className="sr-only">Quick answer</h2>
@@ -112,14 +160,15 @@ export function InformationalGuidePage({ guide }: { guide: InformationalGuide })
                 {guide.related.map((item) => <li key={item.href}><Link href={item.href} className="font-semibold underline decoration-brand/40 underline-offset-4 hover:decoration-brand">{item.title} →</Link></li>)}
               </ul>
             </section>
+              </>
+            )}
           </div>
 
           <aside className="hidden lg:block">
             <nav aria-label="On this page" className="sticky top-28 border-l border-border pl-5">
               <p className="eyebrow">On this page</p>
               <ol className="mt-4 space-y-3 text-sm">
-                {guide.sections.map((section, index) => <li key={section.heading}><a href={`#section-${index + 1}`} className="!text-ink-secondary hover:!text-brand">{section.heading}</a></li>)}
-                <li><a href="#faq" className="!text-ink-secondary hover:!text-brand">FAQ</a></li>
+                {tocItems.map((item) => <li key={item.id}><a href={`#${item.id}`} className="!text-ink-secondary hover:!text-brand">{item.label}</a></li>)}
               </ol>
             </nav>
           </aside>

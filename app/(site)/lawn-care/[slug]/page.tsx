@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const informational = getInformationalGuide(slug);
   if (informational?.silo === SILO) {
-    return buildMetadata({ title: informational.metaTitle, description: informational.description, path: `/${SILO}/${slug}`, type: "article" });
+    return buildMetadata({ title: informational.metaTitle, description: informational.description, path: `/${SILO}/${slug}`, image: informational.heroImage, type: "article" });
   }
   const guide = await getPublicGuideBySlug(slug);
   if (!guide) return {};

@@ -6,6 +6,8 @@ import { guideDataLoaders } from "@/data/guides-index.generated";
 import { getPublicGuideBySlug, getPublicGuidesByCategory } from "@/lib/public-guides";
 import { buildMetadata, SITE_URL } from "@/lib/seo";
 import { matchSlugsForSilo, hasLegacyLiteralRoute } from "@/lib/migrated-silos";
+import { InformationalGuidePage } from "@/components/guide/InformationalGuidePage";
+import { getInformationalGuide, getInformationalGuidesBySilo } from "@/data/informational-guides";
 
 export const revalidate = 604800;
 
@@ -16,11 +18,18 @@ const matchSlugs = matchSlugsForSilo(SILO);
 
 export async function generateStaticParams() {
   const guides = await getPublicGuidesByCategory(SILO, matchSlugs);
-  return guides.filter((g) => !guideDataLoaders[g.slug]).map((g) => ({ slug: g.slug }));
+  return [
+    ...guides.filter((g) => !guideDataLoaders[g.slug]).map((g) => ({ slug: g.slug })),
+    ...getInformationalGuidesBySilo(SILO).map((g) => ({ slug: g.slug })),
+  ];
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
+  const informational = getInformationalGuide(slug);
+  if (informational?.silo === SILO) {
+    return buildMetadata({ title: informational.metaTitle, description: informational.description, path: `/${SILO}/${slug}`, image: informational.heroImage, type: "article" });
+  }
   const guide = await getPublicGuideBySlug(slug);
   if (!guide) return {};
 
@@ -54,6 +63,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function YardCleanupGuidePage({ params }: Props) {
   const { slug } = await params;
+
+  const informational = getInformationalGuide(slug);
+  if (informational?.silo === SILO) return <InformationalGuidePage guide={informational} />;
 
   const guide = await getPublicGuideBySlug(slug);
   if (!guide) notFound();
