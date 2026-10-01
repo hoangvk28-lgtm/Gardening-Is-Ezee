@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
       "40V",
       "550 CFM"
     ],
-    "description": "Greenworks 40V Electric Leaf Blower, 550 CFM, 4.0 Ah Battery and Charger earns the lead position because its documented setup balances air volume and air speed with working weight and balance. Hurricane-Grade Power & Instant Cleaning – 40V Brushless Motor delivers 130MPH wind speed and 550CFM air volume – clears wet leaves, gravel, and snow from driveways or patios (70% faster\n\nIts place in an under-$150 comparison depends on usable capability, not the size of the claims in the listing. 2X Longer Runtime & Library-Quiet Operation – Patented brushless technology enables 20-minute continuous runtime (with included 4.0Ah battery) at only 78dB noise level – ideal for dawn\n\nConfirm the included components and compare Brushless Blower (4.0Ah), 40V, 550 CFM with the area you actually maintain. Recheck that the exact variation still qualifies for this guide before ordering.",
+    "description": "Greenworks 40V Electric Leaf Blower, 550 CFM, 4.0 Ah Battery and Charger earns the lead position because its documented setup balances air volume and air speed with working weight and balance. Hurricane-Grade Power & Instant Cleaning – 40V Brushless Motor delivers 130MPH wind speed and 550CFM air volume – clears wet leaves, gravel, and snow from driveways or patios (70% faster.\n\nIts place in an under-$150 comparison depends on usable capability, not the size of the claims in the listing. 2X Longer Runtime & Library-Quiet Operation – Patented brushless technology enables 20-minute continuous runtime (with included 4.0Ah battery) at only 78dB noise level – ideal for dawn.\n\nConfirm the included components and compare Brushless Blower (4.0Ah), 40V, 550 CFM with the area you actually maintain. Recheck that the exact variation still qualifies for this guide before ordering.",
     "bestFor": "buyers who prioritize air volume and air speed while staying within the stated budget ceiling",
     "pros": [
       "Hurricane-Grade Power & Instant Cleaning – 40V Brushless Motor delivers 130MPH wind speed and 550CFM air volume – clears wet leaves, gravel, and",
@@ -48,11 +48,11 @@ export const products: GuideProduct[] = [
       "Cordless",
       "110 MPH"
     ],
-    "description": "The case for CRAFTSMAN Leaf Blower Cordless with Battery and Charger V20 RP, Up to 110 MPH Power, Handheld Electric Leaf Blower begins with battery and charger inclusion, an area where budget models can differ substantially. MORE RUNTIME.\n\nWithin this under-$150 group, that configuration gives it a clear job instead of making it a duplicate of the lead pick. POWER & PERFORMANCE: Brushless motor provides up to 24 minutes of runtime*** and 37% more force**\n\nMeasure the route or work area first, then verify Cordless, 110 MPH on the selected variation. A similar product-family photo is not enough evidence that every configuration includes the same parts.",
+    "description": "The case for CRAFTSMAN Leaf Blower Cordless with Battery and Charger V20 RP, Up to 110 MPH Power, Handheld Electric Leaf Blower begins with battery and charger inclusion, an area where budget models can differ substantially. MORE RUNTIME.\n\nWithin this under-$150 group, that configuration gives it a clear job instead of making it a duplicate of the lead pick. POWER & PERFORMANCE: Brushless motor provides up to 24 minutes of runtime*** and 37% more force**.\n\nMeasure the route or work area first, then verify Cordless, 110 MPH on the selected variation. A similar product-family photo is not enough evidence that every configuration includes the same parts.",
     "bestFor": "buyers who prioritize battery and charger inclusion while staying within the stated budget ceiling",
     "pros": [
       "MORE RUNTIME.",
-      "POWER & PERFORMANCE: Brushless motor provides up to 24 minutes of runtime*** and 37% more force**",
+      "POWER & PERFORMANCE: Brushless motor provides up to 24 minutes of runtime*** and 37% more force**.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
@@ -95,11 +95,11 @@ export const products: GuideProduct[] = [
       "One Size",
       "450 CFM"
     ],
-    "description": "For a more specialized setup, BLACK + DECKER Electric Leaf Blower, Hand Held Blowers for Lawn Care, Up to 450 CFM and 140 MPH Power brings a different mix of speed control and nozzle design and air volume and air speed. Powerful airflow up to 450 CFM and up to 140 MPH for quick cleanup of leaves and debris\n\nAt this under-$150 tier, it is the pick to compare when the ordinary garden routine matters more than collecting every available feature. 2-speed control for light cleanup around flower beds or for powering through tough debris\n\nMatch speed control and nozzle design to the hardest part of the intended job, not merely the easiest weekly task. If an essential component is absent, moving to another pick is more sensible than planning an immediate upgrade.",
+    "description": "For a more specialized setup, BLACK + DECKER Electric Leaf Blower, Hand Held Blowers for Lawn Care, Up to 450 CFM and 140 MPH Power brings a different mix of speed control and nozzle design and air volume and air speed. Powerful airflow up to 450 CFM and up to 140 MPH for quick cleanup of leaves and debris.\n\nAt this under-$150 tier, it is the pick to compare when the ordinary garden routine matters more than collecting every available feature. 2-speed control for light cleanup around flower beds or for powering through tough debris.\n\nMatch speed control and nozzle design to the hardest part of the intended job, not merely the easiest weekly task. If an essential component is absent, moving to another pick is more sensible than planning an immediate upgrade.",
     "bestFor": "buyers who prioritize speed control and nozzle design while staying within the stated budget ceiling",
     "pros": [
-      "Powerful airflow up to 450 CFM and up to 140 MPH for quick cleanup of leaves and debris",
-      "2-speed control for light cleanup around flower beds or for powering through tough debris",
+      "Powerful airflow up to 450 CFM and up to 140 MPH for quick cleanup of leaves and debris.",
+      "2-speed control for light cleanup around flower beds or for powering through tough debris.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
@@ -118,10 +118,10 @@ export const products: GuideProduct[] = [
       "Pack of 1",
       "180 CFM"
     ],
-    "description": "BLACK+DECKER Electric Leaf Blower, Handheld Blowers for Lawn Care, Lightweight makes sense where storage and everyday handling carry as much weight as headline capacity. 7 Amp motor provides a powerful and efficient blowing performance\n\nInside the $150 ceiling, the design is most convincing when its smaller operational footprint solves a real storage or handling constraint. Moves up to 180Mph to 180CFM for fast and easy cleanup of leaves and debris.\n\nCheck the stored dimensions as carefully as the working specifications. The right budget pick should fit both the garden task and the place where it will live between uses.",
+    "description": "BLACK+DECKER Electric Leaf Blower, Handheld Blowers for Lawn Care, Lightweight makes sense where storage and everyday handling carry as much weight as headline capacity. 7 Amp motor provides a powerful and efficient blowing performance.\n\nInside the $150 ceiling, the design is most convincing when its smaller operational footprint solves a real storage or handling constraint. Moves up to 180Mph to 180CFM for fast and easy cleanup of leaves and debris.\n\nCheck the stored dimensions as carefully as the working specifications. The right budget pick should fit both the garden task and the place where it will live between uses.",
     "bestFor": "buyers who prioritize noise, storage and platform compatibility while staying within the stated budget ceiling",
     "pros": [
-      "7 Amp motor provides a powerful and efficient blowing performance",
+      "7 Amp motor provides a powerful and efficient blowing performance.",
       "Moves up to 180Mph to 180CFM for fast and easy cleanup of leaves and debris.",
       "Current listing provides an identifiable model and included-component set"
     ],

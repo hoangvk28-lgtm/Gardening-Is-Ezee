@@ -46,10 +46,10 @@ export const products: GuideProduct[] = [
     "specs": [
       "0.2755778275 pounds"
     ],
-    "description": "The case for HUSWELL 530095646 Fuel Filter for Husqvarna Poulan Craftsman Gas Leaf Blower String Trimmer Weedeater Chainsaw Brush begins with battery and charger inclusion, an area where budget models can differ substantially. Fuel Filter OEM Part Number: 530010897 530014362 530014815 530023364 530047004 530069216 530069247 530095646 530095649\n\nWithin this under-$300 group, that configuration gives it a clear job instead of making it a duplicate of the lead pick. For Poulan Chainsaw 1950 2050 2150 2375 Wild Thing 2375LE WT 89 891 WT-324 Zama C1U-W8 C1U-W14, for C1M-W26C Poulan Pro PP3416 PP3516 PP3816 PP4018 PP4218 PPB3416 SM4218AV Gas Chainsaw\n\nMeasure the route or work area first, then verify 0.2755778275 pounds on the selected variation. A similar product-family photo is not enough evidence that every configuration includes the same parts.",
+    "description": "The case for HUSWELL 530095646 Fuel Filter for Husqvarna Poulan Craftsman Gas Leaf Blower String Trimmer Weedeater Chainsaw Brush begins with battery and charger inclusion, an area where budget models can differ substantially. Fuel Filter OEM Part Number: 530010897 530014362 530014815 530023364 530047004 530069216 530069247 530095646 530095649.\n\nWithin this under-$300 group, that configuration gives it a clear job instead of making it a duplicate of the lead pick. For Poulan Chainsaw 1950 2050 2150 2375 Wild Thing 2375LE WT 89 891 WT-324 Zama C1U-W8 C1U-W14, for C1M-W26C Poulan Pro PP3416 PP3516 PP3816 PP4018 PP4218 PPB3416 SM4218AV Gas Chainsaw.\n\nMeasure the route or work area first, then verify 0.2755778275 pounds on the selected variation. A similar product-family photo is not enough evidence that every configuration includes the same parts.",
     "bestFor": "buyers who prioritize battery and charger inclusion while staying within the stated budget ceiling",
     "pros": [
-      "Fuel Filter OEM Part Number: 530010897 530014362 530014815 530023364 530047004 530069216 530069247 530095646 530095649",
+      "Fuel Filter OEM Part Number: 530010897 530014362 530014815 530023364 530047004 530069216 530069247 530095646 530095649.",
       "For Poulan Chainsaw 1950 2050 2150 2375 Wild Thing 2375LE WT 89 891 WT-324 Zama C1U-W8 C1U-W14, for C1M-W26C Poulan Pro PP3416 PP3516 PP3816",
       "Current listing provides an identifiable model and included-component set"
     ],
@@ -91,7 +91,7 @@ export const products: GuideProduct[] = [
       "Cordless",
       "700CFM"
     ],
-    "description": "For a more specialized setup, Leaf Blower Cordless, New Upgraded 1200W Brushless Motor Leaf Blower, 700CFM 200MPH with 3 Speed Modes brings a different mix of speed control and nozzle design and air volume and air speed. MTkoala Leaf Blower features a 1200W upgraded brushless motor for stronger airflow, lower energy loss, less heat and 3x longer service life than regular brushed motors.\n\nAt this under-$300 tier, it is the pick to compare when the ordinary garden routine matters more than collecting every available feature. This leaf blower features 3 adjustable speed modes for flexible, scenario-specific control: Low speed for gentle dusting of windowsills, furniture and delicate plants with zero damage\n\nMatch speed control and nozzle design to the hardest part of the intended job, not merely the easiest weekly task. If an essential component is absent, moving to another pick is more sensible than planning an immediate upgrade.",
+    "description": "For a more specialized setup, Leaf Blower Cordless, New Upgraded 1200W Brushless Motor Leaf Blower, 700CFM 200MPH with 3 Speed Modes brings a different mix of speed control and nozzle design and air volume and air speed. MTkoala Leaf Blower features a 1200W upgraded brushless motor for stronger airflow, lower energy loss, less heat and 3x longer service life than regular brushed motors.\n\nAt this under-$300 tier, it is the pick to compare when the ordinary garden routine matters more than collecting every available feature. This leaf blower features 3 adjustable speed modes for flexible, scenario-specific control: Low speed for gentle dusting of windowsills, furniture and delicate plants with zero damage.\n\nMatch speed control and nozzle design to the hardest part of the intended job, not merely the easiest weekly task. If an essential component is absent, moving to another pick is more sensible than planning an immediate upgrade.",
     "bestFor": "buyers who prioritize speed control and nozzle design while staying within the stated budget ceiling",
     "pros": [
       "MTkoala Leaf Blower features a 1200W upgraded brushless motor for stronger airflow, lower energy loss, less heat and 3x longer service life than",
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
       "40V",
       "550 CFM"
     ],
-    "description": "Greenworks 40V Electric Leaf Blower, 550 CFM, 4.0 Ah Battery and Charger makes sense where storage and everyday handling carry as much weight as headline capacity. Hurricane-Grade Power & Instant Cleaning – 40V Brushless Motor delivers 130MPH wind speed and 550CFM air volume – clears wet leaves, gravel, and snow from driveways or patios (70% faster\n\nInside the $300 ceiling, the design is most convincing when its smaller operational footprint solves a real storage or handling constraint. 2X Longer Runtime & Library-Quiet Operation – Patented brushless technology enables 20-minute continuous runtime (with included 4.0Ah battery) at only 78dB noise level – ideal for dawn\n\nCheck the stored dimensions as carefully as the working specifications. The right budget pick should fit both the garden task and the place where it will live between uses.",
+    "description": "Greenworks 40V Electric Leaf Blower, 550 CFM, 4.0 Ah Battery and Charger makes sense where storage and everyday handling carry as much weight as headline capacity. Hurricane-Grade Power & Instant Cleaning – 40V Brushless Motor delivers 130MPH wind speed and 550CFM air volume – clears wet leaves, gravel, and snow from driveways or patios (70% faster.\n\nInside the $300 ceiling, the design is most convincing when its smaller operational footprint solves a real storage or handling constraint. 2X Longer Runtime & Library-Quiet Operation – Patented brushless technology enables 20-minute continuous runtime (with included 4.0Ah battery) at only 78dB noise level – ideal for dawn.\n\nCheck the stored dimensions as carefully as the working specifications. The right budget pick should fit both the garden task and the place where it will live between uses.",
     "bestFor": "buyers who prioritize noise, storage and platform compatibility while staying within the stated budget ceiling",
     "pros": [
       "Hurricane-Grade Power & Instant Cleaning – 40V Brushless Motor delivers 130MPH wind speed and 550CFM air volume – clears wet leaves, gravel, and",
@@ -138,11 +138,11 @@ export const products: GuideProduct[] = [
       "Cordless",
       "110 MPH"
     ],
-    "description": "CRAFTSMAN Leaf Blower Cordless with Battery and Charger V20 RP, Up to 110 MPH Power, Handheld Electric Leaf Blower rounds out the shortlist with a configuration that serves a narrower but useful garden scenario. MORE RUNTIME.\n\nIt belongs in this under-$300 shortlist as a credible final option, but only for shoppers whose workload matches the documented configuration. POWER & PERFORMANCE: Brushless motor provides up to 24 minutes of runtime*** and 37% more force**\n\nUse this option as a cross-check against the first five rather than an automatic fallback. Its value depends on the exact model, included hardware and compatibility remaining aligned with your setup.",
+    "description": "CRAFTSMAN Leaf Blower Cordless with Battery and Charger V20 RP, Up to 110 MPH Power, Handheld Electric Leaf Blower rounds out the shortlist with a configuration that serves a narrower but useful garden scenario. MORE RUNTIME.\n\nIt belongs in this under-$300 shortlist as a credible final option, but only for shoppers whose workload matches the documented configuration. POWER & PERFORMANCE: Brushless motor provides up to 24 minutes of runtime*** and 37% more force**.\n\nUse this option as a cross-check against the first five rather than an automatic fallback. Its value depends on the exact model, included hardware and compatibility remaining aligned with your setup.",
     "bestFor": "buyers who prioritize air volume and air speed while staying within the stated budget ceiling",
     "pros": [
       "MORE RUNTIME.",
-      "POWER & PERFORMANCE: Brushless motor provides up to 24 minutes of runtime*** and 37% more force**",
+      "POWER & PERFORMANCE: Brushless motor provides up to 24 minutes of runtime*** and 37% more force**.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [

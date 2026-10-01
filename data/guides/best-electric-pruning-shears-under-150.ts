@@ -23,11 +23,11 @@ export const products: GuideProduct[] = [
     "specs": [
       "Cordless"
     ],
-    "description": "CRAFTSMAN V20 Cordless Electric Pruner, Pruning Shears for Gardening, 2 Ah Battery and Charger Included earns the lead position because its documented setup balances rated cutting diameter with trigger control and blade response. Powerful, cordless convenience: designed to deliver dependable performance\n\nIts place in an under-$150 comparison depends on usable capability, not the size of the claims in the listing. Cut through wet and dry wood: 1-1/4 in cut capacity\n\nConfirm the included components and compare Cordless with the area you actually maintain. Recheck that the exact variation still qualifies for this guide before ordering.",
+    "description": "CRAFTSMAN V20 Cordless Electric Pruner, Pruning Shears for Gardening, 2 Ah Battery and Charger Included earns the lead position because its documented setup balances rated cutting diameter with trigger control and blade response. Powerful, cordless convenience: designed to deliver dependable performance.\n\nIts place in an under-$150 comparison depends on usable capability, not the size of the claims in the listing. Cut through wet and dry wood: 1-1/4 in cut capacity.\n\nConfirm the included components and compare Cordless with the area you actually maintain. Recheck that the exact variation still qualifies for this guide before ordering.",
     "bestFor": "buyers who prioritize rated cutting diameter while staying within the stated budget ceiling",
     "pros": [
-      "Powerful, cordless convenience: designed to deliver dependable performance",
-      "Cut through wet and dry wood: 1-1/4 in cut capacity",
+      "Powerful, cordless convenience: designed to deliver dependable performance.",
+      "Cut through wet and dry wood: 1-1/4 in cut capacity.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
@@ -47,7 +47,7 @@ export const products: GuideProduct[] = [
       "Cordless",
       "6.4 Pounds"
     ],
-    "description": "The case for SEESII 2-in-1 Pole Pruning Shears, 1.6\" Cutting Diameter Cordless Electric Pole Pruners, Brushless Motor begins with battery capacity and spare-pack inclusion, an area where budget models can differ substantially. 2-in-1 Handheld & 9 ft Pole Mode: Switch between handheld pruning and high reach trimming with the telescopic pole（Range: 4.9-9 ft ).\n\nWithin this under-$150 group, that configuration gives it a clear job instead of making it a duplicate of the lead pick. 2.2\" Jaw Opening, 1.6\" Cutting Capacity: Tackle tough pruning with this power pole pruner, cutting branches up to 1.6\" inches thick; Its power reduces hand strain, perfect for trimming\n\nMeasure the route or work area first, then verify 1.6\", Cordless, 6.4 Pounds on the selected variation. A similar product-family photo is not enough evidence that every configuration includes the same parts.",
+    "description": "The case for SEESII 2-in-1 Pole Pruning Shears, 1.6\" Cutting Diameter Cordless Electric Pole Pruners, Brushless Motor begins with battery capacity and spare-pack inclusion, an area where budget models can differ substantially. 2-in-1 Handheld & 9 ft Pole Mode: Switch between handheld pruning and high reach trimming with the telescopic pole（Range: 4.9-9 ft ).\n\nWithin this under-$150 group, that configuration gives it a clear job instead of making it a duplicate of the lead pick. 2.2\" Jaw Opening, 1.6\" Cutting Capacity: Tackle tough pruning with this power pole pruner, cutting branches up to 1.6\" inches thick; Its power reduces hand strain, perfect for trimming.\n\nMeasure the route or work area first, then verify 1.6\", Cordless, 6.4 Pounds on the selected variation. A similar product-family photo is not enough evidence that every configuration includes the same parts.",
     "bestFor": "buyers who prioritize battery capacity and spare-pack inclusion while staying within the stated budget ceiling",
     "pros": [
       "2-in-1 Handheld & 9 ft Pole Mode: Switch between handheld pruning and high reach trimming with the telescopic pole（Range: 4.9-9 ft ).",
@@ -71,11 +71,11 @@ export const products: GuideProduct[] = [
       "20V",
       "1.6 pounds"
     ],
-    "description": "Brushless Electric Pruning Shears for DeWalt 20V Battery, Portable Cordless Pruning Shears with LCD Display＆SK5 is the practical alternative in this shortlist, particularly when safety lock and replacement-blade support matters more than extra accessories. Pay Attention！Tool only,No battery!\n\nThe under-$150 trade-off is deliberate: it emphasizes trigger control and blade response while leaving buyers to verify safety lock and replacement-blade support for their own setup. Compatible With De-Walt Batteries - The YAWV Hand-held branch trimmer compatible with De-Walt 20V MAX battery, suitable for DCB200\n\nPay particular attention to safety lock and replacement-blade support, because that is where this alternative may fit differently from the lead model. The current offer and variation should be confirmed through the Check price link.",
+    "description": "Brushless Electric Pruning Shears for DeWalt 20V Battery, Portable Cordless Pruning Shears with LCD Display＆SK5 is the practical alternative in this shortlist, particularly when safety lock and replacement-blade support matters more than extra accessories. Pay Attention！Tool only,No battery!\n\nThe under-$150 trade-off is deliberate: it emphasizes trigger control and blade response while leaving buyers to verify safety lock and replacement-blade support for their own setup. Compatible With De-Walt Batteries - The YAWV Hand-held branch trimmer compatible with De-Walt 20V MAX battery, suitable for DCB200.\n\nPay particular attention to safety lock and replacement-blade support, because that is where this alternative may fit differently from the lead model. The current offer and variation should be confirmed through the Check price link.",
     "bestFor": "buyers who prioritize trigger control and blade response while staying within the stated budget ceiling",
     "pros": [
       "Pay Attention！Tool only,No battery!",
-      "Compatible With De-Walt Batteries - The YAWV Hand-held branch trimmer compatible with De-Walt 20V MAX battery, suitable for DCB200",
+      "Compatible With De-Walt Batteries - The YAWV Hand-held branch trimmer compatible with De-Walt 20V MAX battery, suitable for DCB200.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
@@ -94,7 +94,7 @@ export const products: GuideProduct[] = [
       "2.2\"",
       "Cordless"
     ],
-    "description": "For a more specialized setup, SEESII Electric Pruning Shears 4 Modes, 2.2\" Cut Electric Pruners Cordless brings a different mix of working weight and hand fit and rated cutting diameter. Powerful 3.2\" Blade Opening & 2.2\" Cutting Diameter: SEESII electric pruning shears can easily handle thick branches on trees, shrubs, and garden plants that standard pruners struggle with.\n\nAt this under-$150 tier, it is the pick to compare when the ordinary garden routine matters more than collecting every available feature. 4 Adjustable Cutting Modes: Choose from cordless pruner four cutting diameters to match different pruning tasks—0.6\" for flowers and small stems, 1.4\" for general garden pruning, 1.8\" for\n\nMatch working weight and hand fit to the hardest part of the intended job, not merely the easiest weekly task. If an essential component is absent, moving to another pick is more sensible than planning an immediate upgrade.",
+    "description": "For a more specialized setup, SEESII Electric Pruning Shears 4 Modes, 2.2\" Cut Electric Pruners Cordless brings a different mix of working weight and hand fit and rated cutting diameter. Powerful 3.2\" Blade Opening & 2.2\" Cutting Diameter: SEESII electric pruning shears can easily handle thick branches on trees, shrubs, and garden plants that standard pruners struggle with.\n\nAt this under-$150 tier, it is the pick to compare when the ordinary garden routine matters more than collecting every available feature. 4 Adjustable Cutting Modes: Choose from cordless pruner four cutting diameters to match different pruning tasks—0.6\" for flowers and small stems, 1.4\" for general garden pruning, 1.8\" for.\n\nMatch working weight and hand fit to the hardest part of the intended job, not merely the easiest weekly task. If an essential component is absent, moving to another pick is more sensible than planning an immediate upgrade.",
     "bestFor": "buyers who prioritize working weight and hand fit while staying within the stated budget ceiling",
     "pros": [
       "Powerful 3.2\" Blade Opening & 2.2\" Cutting Diameter: SEESII electric pruning shears can easily handle thick branches on trees, shrubs, and",
@@ -118,11 +118,11 @@ export const products: GuideProduct[] = [
       "20V",
       "2.4 Pounds"
     ],
-    "description": "WORX Cordless Pruning Shear, 20V Powered Lopper, WG330 makes sense where storage and everyday handling carry as much weight as headline capacity. Worx NITRO tools are engineered to provide greater power, performance, and run time\n\nInside the $150 ceiling, the design is most convincing when its smaller operational footprint solves a real storage or handling constraint. Titanium plating on the blade decreases friction, provides easier cutting, and offers long lasting protection against rust corrosion\n\nCheck the stored dimensions as carefully as the working specifications. The right budget pick should fit both the garden task and the place where it will live between uses.",
+    "description": "WORX Cordless Pruning Shear, 20V Powered Lopper, WG330 makes sense where storage and everyday handling carry as much weight as headline capacity. Worx NITRO tools are engineered to provide greater power, performance, and run time.\n\nInside the $150 ceiling, the design is most convincing when its smaller operational footprint solves a real storage or handling constraint. Titanium plating on the blade decreases friction, provides easier cutting, and offers long lasting protection against rust corrosion.\n\nCheck the stored dimensions as carefully as the working specifications. The right budget pick should fit both the garden task and the place where it will live between uses.",
     "bestFor": "buyers who prioritize safety lock and replacement-blade support while staying within the stated budget ceiling",
     "pros": [
-      "Worx NITRO tools are engineered to provide greater power, performance, and run time",
-      "Titanium plating on the blade decreases friction, provides easier cutting, and offers long lasting protection against rust corrosion",
+      "Worx NITRO tools are engineered to provide greater power, performance, and run time.",
+      "Titanium plating on the blade decreases friction, provides easier cutting, and offers long lasting protection against rust corrosion.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
@@ -142,11 +142,11 @@ export const products: GuideProduct[] = [
       "20V",
       "4.6 Pounds"
     ],
-    "description": "BLACK+DECKER 20V MAX* Cordless Pruner Electric Pruning Shears, Battery and Charger Included, 900 Cuts Per Charge rounds out the shortlist with a configuration that serves a narrower but useful garden scenario. 1\" cut capacity: designed to cut through wet and dry wood with ease\n\nIt belongs in this under-$150 shortlist as a credible final option, but only for shoppers whose workload matches the documented configuration. Cordless pruning shear cuts once per second: for minimal downtime between cuts\n\nUse this option as a cross-check against the first five rather than an automatic fallback. Its value depends on the exact model, included hardware and compatibility remaining aligned with your setup.",
+    "description": "BLACK+DECKER 20V MAX* Cordless Pruner Electric Pruning Shears, Battery and Charger Included, 900 Cuts Per Charge rounds out the shortlist with a configuration that serves a narrower but useful garden scenario. 1\" cut capacity: designed to cut through wet and dry wood with ease.\n\nIt belongs in this under-$150 shortlist as a credible final option, but only for shoppers whose workload matches the documented configuration. Cordless pruning shear cuts once per second: for minimal downtime between cuts.\n\nUse this option as a cross-check against the first five rather than an automatic fallback. Its value depends on the exact model, included hardware and compatibility remaining aligned with your setup.",
     "bestFor": "buyers who prioritize rated cutting diameter while staying within the stated budget ceiling",
     "pros": [
-      "1\" cut capacity: designed to cut through wet and dry wood with ease",
-      "Cordless pruning shear cuts once per second: for minimal downtime between cuts",
+      "1\" cut capacity: designed to cut through wet and dry wood with ease.",
+      "Cordless pruning shear cuts once per second: for minimal downtime between cuts.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [

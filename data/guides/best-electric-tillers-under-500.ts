@@ -23,11 +23,11 @@ export const products: GuideProduct[] = [
     "specs": [
       "0.17 Pounds"
     ],
-    "description": "FSP Tiller Tine Clutch Cable 583731701. Also Replaces 3066J and 188532 Craftsman Poulan Husqvarna earns the lead position because its documented setup balances tilling width and depth with tine layout and soil type. · Tiller Clutch Cable\n\nIts place in an under-$500 comparison depends on usable capability, not the size of the claims in the listing. · Genuine Husqvarna Part # 583731701\n\nConfirm the included components and compare 0.17 Pounds with the area you actually maintain. Recheck that the exact variation still qualifies for this guide before ordering.",
+    "description": "FSP Tiller Tine Clutch Cable 583731701. Also Replaces 3066J and 188532 Craftsman Poulan Husqvarna earns the lead position because its documented setup balances tilling width and depth with tine layout and soil type. · Tiller Clutch Cable.\n\nIts place in an under-$500 comparison depends on usable capability, not the size of the claims in the listing. · Genuine Husqvarna Part # 583731701.\n\nConfirm the included components and compare 0.17 Pounds with the area you actually maintain. Recheck that the exact variation still qualifies for this guide before ordering.",
     "bestFor": "buyers who prioritize tilling width and depth while staying within the stated budget ceiling",
     "pros": [
-      "· Tiller Clutch Cable",
-      "· Genuine Husqvarna Part # 583731701",
+      "· Tiller Clutch Cable.",
+      "· Genuine Husqvarna Part # 583731701.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
@@ -46,11 +46,11 @@ export const products: GuideProduct[] = [
       "Corded; 16 inch, 12 amp",
       "27.08 pounds"
     ],
-    "description": "The case for Sun Joe Electric Garden Tiller Cultivator, Steel Tines, 12 Amp begins with corded or battery power system, an area where budget models can differ substantially. Powerful Electric Tiller: Electric rototiller provides efficient soil preparation in your lawn or garden with 3-position wheel adjustment for optimal depth and control\n\nWithin this under-$500 group, that configuration gives it a clear job instead of making it a duplicate of the lead pick. Low-Maintenance Design: Electric powered for cleaner, greener operation without gas or oil; Folding handle ensures easy storage and transport\n\nMeasure the route or work area first, then verify Corded; 16 inch, 12 amp, 27.08 pounds on the selected variation. A similar product-family photo is not enough evidence that every configuration includes the same parts.",
+    "description": "The case for Sun Joe Electric Garden Tiller Cultivator, Steel Tines, 12 Amp begins with corded or battery power system, an area where budget models can differ substantially. Powerful Electric Tiller: Electric rototiller provides efficient soil preparation in your lawn or garden with 3-position wheel adjustment for optimal depth and control.\n\nWithin this under-$500 group, that configuration gives it a clear job instead of making it a duplicate of the lead pick. Low-Maintenance Design: Electric powered for cleaner, greener operation without gas or oil; Folding handle ensures easy storage and transport.\n\nMeasure the route or work area first, then verify Corded; 16 inch, 12 amp, 27.08 pounds on the selected variation. A similar product-family photo is not enough evidence that every configuration includes the same parts.",
     "bestFor": "buyers who prioritize corded or battery power system while staying within the stated budget ceiling",
     "pros": [
       "Powerful Electric Tiller: Electric rototiller provides efficient soil preparation in your lawn or garden with 3-position wheel adjustment for",
-      "Low-Maintenance Design: Electric powered for cleaner, greener operation without gas or oil; Folding handle ensures easy storage and transport",
+      "Low-Maintenance Design: Electric powered for cleaner, greener operation without gas or oil; Folding handle ensures easy storage and transport.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
@@ -69,7 +69,7 @@ export const products: GuideProduct[] = [
       "18-Inch",
       "19.9 Pounds"
     ],
-    "description": "Prostormer 18-Inch Electric Garden Tiller Cultivator is the practical alternative in this shortlist, particularly when handle controls and storage matters more than extra accessories. - With a wide 18-inch cutting path and a 9-inch working depth, this Prostormer electric tiller efficiently breaks up tough soil for medium to large garden beds, vegetable plots, and flower\n\nThe under-$500 trade-off is deliberate: it emphasizes tine layout and soil type while leaving buyers to verify handle controls and storage for their own setup. - Powered by a robust 15A pure copper motor and spinning at 380 RPM, it drives through compacted soil with ease.\n\nPay particular attention to handle controls and storage, because that is where this alternative may fit differently from the lead model. The current offer and variation should be confirmed through the Check price link.",
+    "description": "Prostormer 18-Inch Electric Garden Tiller Cultivator is the practical alternative in this shortlist, particularly when handle controls and storage matters more than extra accessories. - With a wide 18-inch cutting path and a 9-inch working depth, this Prostormer electric tiller efficiently breaks up tough soil for medium to large garden beds, vegetable plots, and flower.\n\nThe under-$500 trade-off is deliberate: it emphasizes tine layout and soil type while leaving buyers to verify handle controls and storage for their own setup. - Powered by a robust 15A pure copper motor and spinning at 380 RPM, it drives through compacted soil with ease.\n\nPay particular attention to handle controls and storage, because that is where this alternative may fit differently from the lead model. The current offer and variation should be confirmed through the Check price link.",
     "bestFor": "buyers who prioritize tine layout and soil type while staying within the stated budget ceiling",
     "pros": [
       "- With a wide 18-inch cutting path and a 9-inch working depth, this Prostormer electric tiller efficiently breaks up tough soil for medium to",
@@ -92,11 +92,11 @@ export const products: GuideProduct[] = [
       "18-inch",
       "24.36 Pounds"
     ],
-    "description": "For a more specialized setup, LawnMaster 13.5 Amp 18” Electric Tiller – TE1318M brings a different mix of working weight and transport and tilling width and depth. EFFICIENT SOIL CULTIVATION: 6 rust-resistant steel blades cut through rough terrain at 380-RPM\n\nAt this under-$500 tier, it is the pick to compare when the ordinary garden routine matters more than collecting every available feature. 18-INCH MAX CUTTING WIDTH: Designed for medium to large sized gardens with an impressive 9-inch depth for effective tilling\n\nMatch working weight and transport to the hardest part of the intended job, not merely the easiest weekly task. If an essential component is absent, moving to another pick is more sensible than planning an immediate upgrade.",
+    "description": "For a more specialized setup, LawnMaster 13.5 Amp 18” Electric Tiller – TE1318M brings a different mix of working weight and transport and tilling width and depth. EFFICIENT SOIL CULTIVATION: 6 rust-resistant steel blades cut through rough terrain at 380-RPM.\n\nAt this under-$500 tier, it is the pick to compare when the ordinary garden routine matters more than collecting every available feature. 18-INCH MAX CUTTING WIDTH: Designed for medium to large sized gardens with an impressive 9-inch depth for effective tilling.\n\nMatch working weight and transport to the hardest part of the intended job, not merely the easiest weekly task. If an essential component is absent, moving to another pick is more sensible than planning an immediate upgrade.",
     "bestFor": "buyers who prioritize working weight and transport while staying within the stated budget ceiling",
     "pros": [
-      "EFFICIENT SOIL CULTIVATION: 6 rust-resistant steel blades cut through rough terrain at 380-RPM",
-      "18-INCH MAX CUTTING WIDTH: Designed for medium to large sized gardens with an impressive 9-inch depth for effective tilling",
+      "EFFICIENT SOIL CULTIVATION: 6 rust-resistant steel blades cut through rough terrain at 380-RPM.",
+      "18-INCH MAX CUTTING WIDTH: Designed for medium to large sized gardens with an impressive 9-inch depth for effective tilling.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
@@ -116,7 +116,7 @@ export const products: GuideProduct[] = [
       "40V",
       "21 Pounds"
     ],
-    "description": "Greenworks 40V 10\" Cordless Tiller / Cultivator, 4.0Ah Battery and Charger Included, Green makes sense where storage and everyday handling carry as much weight as headline capacity. 40V TILLER / CULTIVATOR – provides the power you need to break up hard, compact soil into loose, broken-up dirt that can then be used for planting\n\nInside the $500 ceiling, the design is most convincing when its smaller operational footprint solves a real storage or handling constraint. PERFECT FOR YOUR GARDEN – Up to 45 minutes of run-time on a fully charged 4.0Ah battery.\n\nCheck the stored dimensions as carefully as the working specifications. The right budget pick should fit both the garden task and the place where it will live between uses.",
+    "description": "Greenworks 40V 10\" Cordless Tiller / Cultivator, 4.0Ah Battery and Charger Included, Green makes sense where storage and everyday handling carry as much weight as headline capacity. 40V TILLER / CULTIVATOR – provides the power you need to break up hard, compact soil into loose, broken-up dirt that can then be used for planting.\n\nInside the $500 ceiling, the design is most convincing when its smaller operational footprint solves a real storage or handling constraint. PERFECT FOR YOUR GARDEN – Up to 45 minutes of run-time on a fully charged 4.0Ah battery.\n\nCheck the stored dimensions as carefully as the working specifications. The right budget pick should fit both the garden task and the place where it will live between uses.",
     "bestFor": "buyers who prioritize handle controls and storage while staying within the stated budget ceiling",
     "pros": [
       "40V TILLER / CULTIVATOR – provides the power you need to break up hard, compact soil into loose, broken-up dirt that can then be used for",

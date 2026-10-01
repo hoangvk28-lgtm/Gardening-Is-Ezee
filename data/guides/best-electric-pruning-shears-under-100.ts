@@ -25,11 +25,11 @@ export const products: GuideProduct[] = [
       "20V",
       "2.4 Pounds"
     ],
-    "description": "WORX Cordless Pruning Shear, 20V Powered Lopper, WG330 earns the lead position because its documented setup balances rated cutting diameter with trigger control and blade response. Worx NITRO tools are engineered to provide greater power, performance, and run time\n\nIts place in an under-$100 comparison depends on usable capability, not the size of the claims in the listing. Titanium plating on the blade decreases friction, provides easier cutting, and offers long lasting protection against rust corrosion\n\nConfirm the included components and compare 20 V, 20V, 2.4 Pounds with the area you actually maintain. Recheck that the exact variation still qualifies for this guide before ordering.",
+    "description": "WORX Cordless Pruning Shear, 20V Powered Lopper, WG330 earns the lead position because its documented setup balances rated cutting diameter with trigger control and blade response. Worx NITRO tools are engineered to provide greater power, performance, and run time.\n\nIts place in an under-$100 comparison depends on usable capability, not the size of the claims in the listing. Titanium plating on the blade decreases friction, provides easier cutting, and offers long lasting protection against rust corrosion.\n\nConfirm the included components and compare 20 V, 20V, 2.4 Pounds with the area you actually maintain. Recheck that the exact variation still qualifies for this guide before ordering.",
     "bestFor": "buyers who prioritize rated cutting diameter while staying within the stated budget ceiling",
     "pros": [
-      "Worx NITRO tools are engineered to provide greater power, performance, and run time",
-      "Titanium plating on the blade decreases friction, provides easier cutting, and offers long lasting protection against rust corrosion",
+      "Worx NITRO tools are engineered to provide greater power, performance, and run time.",
+      "Titanium plating on the blade decreases friction, provides easier cutting, and offers long lasting protection against rust corrosion.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
@@ -49,11 +49,11 @@ export const products: GuideProduct[] = [
       "20V",
       "4.6 Pounds"
     ],
-    "description": "The case for BLACK+DECKER 20V MAX* Cordless Pruner Electric Pruning Shears, Battery and Charger Included, 900 Cuts Per Charge begins with battery capacity and spare-pack inclusion, an area where budget models can differ substantially. 1\" cut capacity: designed to cut through wet and dry wood with ease\n\nWithin this under-$100 group, that configuration gives it a clear job instead of making it a duplicate of the lead pick. Cordless pruning shear cuts once per second: for minimal downtime between cuts\n\nMeasure the route or work area first, then verify One Size, 20V, 4.6 Pounds on the selected variation. A similar product-family photo is not enough evidence that every configuration includes the same parts.",
+    "description": "The case for BLACK+DECKER 20V MAX* Cordless Pruner Electric Pruning Shears, Battery and Charger Included, 900 Cuts Per Charge begins with battery capacity and spare-pack inclusion, an area where budget models can differ substantially. 1\" cut capacity: designed to cut through wet and dry wood with ease.\n\nWithin this under-$100 group, that configuration gives it a clear job instead of making it a duplicate of the lead pick. Cordless pruning shear cuts once per second: for minimal downtime between cuts.\n\nMeasure the route or work area first, then verify One Size, 20V, 4.6 Pounds on the selected variation. A similar product-family photo is not enough evidence that every configuration includes the same parts.",
     "bestFor": "buyers who prioritize battery capacity and spare-pack inclusion while staying within the stated budget ceiling",
     "pros": [
-      "1\" cut capacity: designed to cut through wet and dry wood with ease",
-      "Cordless pruning shear cuts once per second: for minimal downtime between cuts",
+      "1\" cut capacity: designed to cut through wet and dry wood with ease.",
+      "Cordless pruning shear cuts once per second: for minimal downtime between cuts.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
@@ -73,10 +73,10 @@ export const products: GuideProduct[] = [
       "20V",
       "0.220462262 Pounds"
     ],
-    "description": "MtiolHig Electric Pruning Shears Compatible with DeWALT 20V – 26000RPM Cordless Garden Pruner,0.8-2 inch Max Cutting is the practical alternative in this shortlist, particularly when safety lock and replacement-blade support matters more than extra accessories. Compatible with DeWalt Battery(Battery Not Included): Designed compatible with DeWalt 20V batteries, suitable for DCB200\n\nThe under-$100 trade-off is deliberate: it emphasizes trigger control and blade response while leaving buyers to verify safety lock and replacement-blade support for their own setup. Powerhouse Performance: Experience the MtiolHig electric pruning shears, equipped with a high-torque 26,000 RPM brushless motor.\n\nPay particular attention to safety lock and replacement-blade support, because that is where this alternative may fit differently from the lead model. The current offer and variation should be confirmed through the Check price link.",
+    "description": "MtiolHig Electric Pruning Shears Compatible with DeWALT 20V – 26000RPM Cordless Garden Pruner,0.8-2 inch Max Cutting is the practical alternative in this shortlist, particularly when safety lock and replacement-blade support matters more than extra accessories. Compatible with DeWalt Battery(Battery Not Included): Designed compatible with DeWalt 20V batteries, suitable for DCB200.\n\nThe under-$100 trade-off is deliberate: it emphasizes trigger control and blade response while leaving buyers to verify safety lock and replacement-blade support for their own setup. Powerhouse Performance: Experience the MtiolHig electric pruning shears, equipped with a high-torque 26,000 RPM brushless motor.\n\nPay particular attention to safety lock and replacement-blade support, because that is where this alternative may fit differently from the lead model. The current offer and variation should be confirmed through the Check price link.",
     "bestFor": "buyers who prioritize trigger control and blade response while staying within the stated budget ceiling",
     "pros": [
-      "Compatible with DeWalt Battery(Battery Not Included): Designed compatible with DeWalt 20V batteries, suitable for DCB200",
+      "Compatible with DeWalt Battery(Battery Not Included): Designed compatible with DeWalt 20V batteries, suitable for DCB200.",
       "Powerhouse Performance: Experience the MtiolHig electric pruning shears, equipped with a high-torque 26,000 RPM brushless motor.",
       "Current listing provides an identifiable model and included-component set"
     ],
@@ -143,7 +143,7 @@ export const products: GuideProduct[] = [
       "Cordless",
       "2 Pounds"
     ],
-    "description": "SEESII Electric Pruning Shears 4 Modes, 1.8” Cut Electric Pruners Cordless rounds out the shortlist with a configuration that serves a narrower but useful garden scenario. 2.6\" Opening & 1.8” Cut – Effortlessly Trim Larger Branches: The electric pruners’s 2.6\" blade opening & 1.8\" cutting diameter makes it easy to cut through thick branches; Perfect for\n\nIt belongs in this under-$100 shortlist as a credible final option, but only for shoppers whose workload matches the documented configuration. Adapt to Different Branch Sizes: With 4 adjustable cutting modes, the power pruner lets you switch settings to match the branch size; From small twigs to thick branches, it offers better\n\nUse this option as a cross-check against the first five rather than an automatic fallback. Its value depends on the exact model, included hardware and compatibility remaining aligned with your setup.",
+    "description": "SEESII Electric Pruning Shears 4 Modes, 1.8” Cut Electric Pruners Cordless rounds out the shortlist with a configuration that serves a narrower but useful garden scenario. 2.6\" Opening & 1.8” Cut – Effortlessly Trim Larger Branches: The electric pruners’s 2.6\" blade opening & 1.8\" cutting diameter makes it easy to cut through thick branches; Perfect for.\n\nIt belongs in this under-$100 shortlist as a credible final option, but only for shoppers whose workload matches the documented configuration. Adapt to Different Branch Sizes: With 4 adjustable cutting modes, the power pruner lets you switch settings to match the branch size; From small twigs to thick branches, it offers better.\n\nUse this option as a cross-check against the first five rather than an automatic fallback. Its value depends on the exact model, included hardware and compatibility remaining aligned with your setup.",
     "bestFor": "buyers who prioritize rated cutting diameter while staying within the stated budget ceiling",
     "pros": [
       "2.6\" Opening & 1.8” Cut – Effortlessly Trim Larger Branches: The electric pruners’s 2.6\" blade opening & 1.8\" cutting diameter makes it easy to",

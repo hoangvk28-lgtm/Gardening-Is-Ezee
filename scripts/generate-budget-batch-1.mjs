@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
 
 const root = resolve(import.meta.dirname, "..");
-const research = JSON.parse(readFileSync("/tmp/gardening-budget-all.json", "utf8"));
+const research = JSON.parse(readFileSync("/tmp/gardening-budget-complete.json", "utf8"));
 const updated = "2026-09-30";
 
 const clusters = [
@@ -54,6 +54,76 @@ const clusters = [
     required: /tiller|cultivator/i, excluded: /attachment|replacement|blade only|tine only|wheel only|battery only|charger only|manual hand/i,
     factors: ["tilling width and depth", "corded or battery power system", "tine layout and soil type", "working weight and transport", "handle controls and storage"],
     specLabels: ["Tilling width", "Power", "Weight"],
+  },
+  {
+    key: "watering-cans", noun: "Watering Cans", silo: "watering", limits: [25, 50, 100],
+    parent: "best-watering-cans", related: ["best-garden-watering-cans", "best-metal-watering-cans", "best-watering-cans-with-removable-roses"],
+    required: /watering can/i, excluded: /toy|miniature|ornament|replacement|spout only|rose only|nozzle only/i,
+    factors: ["usable capacity and filled weight", "spout reach and pour control", "handle position and grip", "body material and seam quality", "removable rose and storage footprint"],
+    specLabels: ["Capacity", "Material", "Size"],
+  },
+  {
+    key: "smart-sprinkler-controllers", noun: "Smart Sprinkler Controllers", silo: "watering", limits: [100, 150, 200, 300],
+    parent: "best-smart-sprinkler-controllers", related: ["best-weather-based-smart-sprinkler-controllers", "best-smart-sprinkler-controllers-without-subscriptions", "best-orbit-b-hyve-smart-sprinkler-controllers"],
+    required: /sprinkler controller|irrigation controller/i, excluded: /sensor|module|replacement|valve|transformer|enclosure|remote|water timer|gateway/i,
+    factors: ["supported zone count", "weather adjustment and scheduling", "app and local control", "indoor or outdoor installation", "wiring compatibility and expansion"],
+    specLabels: ["Zones", "Installation", "Connectivity"],
+  },
+  {
+    key: "garden-tool-sets", noun: "Garden Tool Sets", silo: "garden-tools", limits: [50, 100, 150],
+    parent: "best-garden-tool-sets", related: ["best-heavy-duty-garden-tool-sets", "best-garden-tool-sets-for-women", "best-garden-tool-storage-racks"],
+    required: /garden(?:ing)? tools? set|garden hand tools|gardening kit/i, excluded: /kids|children|toy|miniature|replacement|organizer only|bag only/i,
+    factors: ["useful tool mix", "head material and tang construction", "handle shape and grip", "storage bag or rack", "soil tasks covered without filler pieces"],
+    specLabels: ["Piece count", "Material", "Storage"],
+  },
+  {
+    key: "pruning-shears", noun: "Manual Pruning Shears", silo: "garden-tools", limits: [25, 50, 100],
+    parent: "electric-pruning-shears-vs-manual-pruners", related: ["best-electric-pruning-shears", "best-electric-pruning-shears-for-roses", "are-electric-pruning-shears-worth-it"],
+    required: /pruning shear|hand pruner|garden pruner|pruning scissors/i, excluded: /electric|cordless|battery|replacement|blade only|holster only|sheath only|sharpener only|pole/i,
+    factors: ["rated cutting capacity", "bypass or anvil blade action", "blade steel and coating", "handle span and spring", "lock placement and serviceability"],
+    specLabels: ["Cut capacity", "Blade", "Length"],
+  },
+  {
+    key: "garden-carts", noun: "Garden Carts", silo: "garden-tools", limits: [150, 200, 300],
+    parent: "best-garden-carts", related: ["best-steel-garden-carts", "best-garden-carts-for-uneven-terrain", "garden-cart-vs-wheelbarrow"],
+    required: /garden cart|utility cart|garden wagon|yard cart/i, excluded: /cover|replacement|wheel only|tire only|liner|hitch|kids|toy|folding wagon|workseat|work seat|stool|scooter/i,
+    factors: ["rated load and bed volume", "dumping or removable-side design", "wheel count and tire type", "handle geometry and turning radius", "frame material and stored size"],
+    specLabels: ["Capacity", "Bed", "Wheels"],
+  },
+  {
+    key: "weed-pullers", noun: "Weed Pullers", silo: "garden-tools", limits: [50, 100],
+    parent: "best-weed-pullers", related: ["best-stand-up-weed-pullers", "best-weed-pullers-for-garden-beds", "best-weed-pullers-for-seniors"],
+    required: /weed puller|weeder|weed remover/i, excluded: /electric|cordless|replacement|brush|trimmer|sprayer|herbicide|weed torch|toy/i,
+    factors: ["root-gripping head design", "standing or hand-tool reach", "ejection mechanism", "shaft and foot-platform strength", "fit for taproots or shallow weeds"],
+    specLabels: ["Tool length", "Head", "Material"],
+  },
+  {
+    key: "leaf-vacuums", noun: "Leaf Vacuums", silo: "yard-cleanup", limits: [100, 200, 300],
+    parent: "best-leaf-vacuums", related: ["best-cordless-leaf-vacuums", "best-leaf-vacuums-for-wet-leaves", "best-leaf-vacuums-with-bags"],
+    required: /leaf vacuum|blower.{0,12}vacuum|vacuum.{0,12}mulcher|lawn vacuum/i, excluded: /bag only|attachment|replacement|tube only|hose only|wheel only|battery only|charger only|sweeper/i,
+    factors: ["vacuum airflow and suction path", "mulching ratio and impeller", "collection bag capacity", "corded, battery or gas power", "conversion controls and working weight"],
+    specLabels: ["Power", "Air output", "Bag"],
+  },
+  {
+    key: "hose-reel-carts", noun: "Hose Reel Carts", silo: "watering", limits: [100, 150, 200],
+    parent: "best-portable-garden-hose-reels", related: ["best-garden-hoses-with-reels", "best-wall-mounted-garden-hose-reels", "best-retractable-garden-hose-reels"],
+    required: /hose reel cart|hose cart|cart.{0,20}hose reel/i, excluded: /cover only|replacement|wheel only|tire only|leader hose only|connector only|decorative/i,
+    factors: ["rated hose capacity", "frame and reel material", "wheel layout and mobility", "crank, guide and swivel design", "leader hose and fitting quality"],
+    specLabels: ["Hose capacity", "Frame", "Wheels"],
+  },
+  {
+    key: "outdoor-storage-boxes", noun: "Outdoor Storage Boxes", silo: "outdoor-living", limits: [100, 200, 300],
+    parent: "best-outdoor-storage-sheds", related: ["best-small-outdoor-storage-sheds", "best-waterproof-outdoor-storage-sheds", "best-garden-tool-storage-cabinets"],
+    required: /outdoor storage box|deck box|patio storage box/i, excluded: /cover only|cushion|replacement|lock only|organizer only|indoor|package box|delivery box/i,
+    factors: ["usable storage capacity", "weather-resistant panel design", "lid support and opening clearance", "lock provision and floor strength", "assembly and patio footprint"],
+    specLabels: ["Capacity", "Material", "Footprint"],
+  },
+  {
+    key: "wheelbarrows", noun: "Wheelbarrows", silo: "garden-tools", limits: [100, 150, 200],
+    parent: "garden-cart-vs-wheelbarrow", related: ["best-power-wheelbarrows", "best-power-assisted-wheelbarrows", "best-garden-carts"],
+    required: /wheelbarrow/i, excluded: /power|electric|gas|motorized|replacement|wheel only|tire only|tray only|handle only|toy|planter|flower pot|dump cart|wagon|4 wheel/i,
+    factors: ["tray volume and load rating", "one- or two-wheel balance", "tire type and axle support", "handle reach and dumping control", "tray and frame material"],
+    specLabels: ["Capacity", "Tray", "Wheels"],
   },
 ];
 
@@ -137,7 +207,8 @@ function featureFor(item, index, fallback) {
   const candidate = clean(item.features?.[index], 220);
   if (!candidate || forbidden.test(candidate)) return fallback;
   const sentence = candidate.match(/^.*?[.!?](?:\s|$)/)?.[0] ?? candidate;
-  return clean(sentence, 190);
+  const cleaned = clean(sentence, 190);
+  return /[.!?]$/.test(cleaned) ? cleaned : `${cleaned}.`;
 }
 
 function descriptionFor(item, cluster, limit, rank) {

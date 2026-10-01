@@ -25,11 +25,11 @@ export const products: GuideProduct[] = [
       "20V",
       "5.33 Pounds"
     ],
-    "description": "DEWALT Dewalt 20V MAX Cordless Pruner (DCPR320D1), Yellow earns the lead position because its documented setup balances rated cutting diameter with trigger control and blade response. SMOOTH, SWIFT CUTS with non-stick coated blades\n\nIts place in an under-$200 comparison depends on usable capability, not the size of the claims in the listing. QUICK BLADE CHANGES: Switch blades out with the included change tool\n\nConfirm the included components and compare One Size, 20V, 5.33 Pounds with the area you actually maintain. Recheck that the exact variation still qualifies for this guide before ordering.",
+    "description": "DEWALT Dewalt 20V MAX Cordless Pruner (DCPR320D1), Yellow earns the lead position because its documented setup balances rated cutting diameter with trigger control and blade response. SMOOTH, SWIFT CUTS with non-stick coated blades.\n\nIts place in an under-$200 comparison depends on usable capability, not the size of the claims in the listing. QUICK BLADE CHANGES: Switch blades out with the included change tool.\n\nConfirm the included components and compare One Size, 20V, 5.33 Pounds with the area you actually maintain. Recheck that the exact variation still qualifies for this guide before ordering.",
     "bestFor": "buyers who prioritize rated cutting diameter while staying within the stated budget ceiling",
     "pros": [
-      "SMOOTH, SWIFT CUTS with non-stick coated blades",
-      "QUICK BLADE CHANGES: Switch blades out with the included change tool",
+      "SMOOTH, SWIFT CUTS with non-stick coated blades.",
+      "QUICK BLADE CHANGES: Switch blades out with the included change tool.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
@@ -49,7 +49,7 @@ export const products: GuideProduct[] = [
       "Cordless",
       "9.7 pounds"
     ],
-    "description": "The case for SEESII 2-in-1 Pole Electric Pruning Shears, 2.2\" Cut Cordless Pole Pruner begins with battery capacity and spare-pack inclusion, an area where budget models can differ substantially. 2-in-1 Versatile Design: This electric pole pruner features a dual-function design, working as a standalone electric pruning shear or attached to an extendable pole for high branch trimming.\n\nWithin this under-$200 group, that configuration gives it a clear job instead of making it a duplicate of the lead pick. Powerful 3.2\" Blade Opening & 2.2\" Cutting Diameter: SEESII electric pruning shears with pole can easily handle thick branches on trees, shrubs, and garden plants that standard pruners\n\nMeasure the route or work area first, then verify 2.2 inches, Cordless, 9.7 pounds on the selected variation. A similar product-family photo is not enough evidence that every configuration includes the same parts.",
+    "description": "The case for SEESII 2-in-1 Pole Electric Pruning Shears, 2.2\" Cut Cordless Pole Pruner begins with battery capacity and spare-pack inclusion, an area where budget models can differ substantially. 2-in-1 Versatile Design: This electric pole pruner features a dual-function design, working as a standalone electric pruning shear or attached to an extendable pole for high branch trimming.\n\nWithin this under-$200 group, that configuration gives it a clear job instead of making it a duplicate of the lead pick. Powerful 3.2\" Blade Opening & 2.2\" Cutting Diameter: SEESII electric pruning shears with pole can easily handle thick branches on trees, shrubs, and garden plants that standard pruners.\n\nMeasure the route or work area first, then verify 2.2 inches, Cordless, 9.7 pounds on the selected variation. A similar product-family photo is not enough evidence that every configuration includes the same parts.",
     "bestFor": "buyers who prioritize battery capacity and spare-pack inclusion while staying within the stated budget ceiling",
     "pros": [
       "2-in-1 Versatile Design: This electric pole pruner features a dual-function design, working as a standalone electric pruning shear or attached",
@@ -95,7 +95,7 @@ export const products: GuideProduct[] = [
       "Cordless",
       "3.30693393 Pounds"
     ],
-    "description": "For a more specialized setup, MODOFO 2-in-1 Electric Pruning Shears Cordless with Pole, 2.1\" Cutting Diameter Pole Pruning Shears, Brushless Motor brings a different mix of working weight and hand fit and rated cutting diameter. 👍: The electric pruner features a dual-function design that allows you to effortlessly switch between a handheld pruner and a long-reach pole pruner (up to 9 ft / 2.7 m in length)—no\n\nAt this under-$200 tier, it is the pick to compare when the ordinary garden routine matters more than collecting every available feature. 👍: Switch between 2.1\" and 1.6\" cutting modes to handle both thick branches and precise trimming., this tool effortlessly handles any task—whether it involves heavy pruning of fruit trees\n\nMatch working weight and hand fit to the hardest part of the intended job, not merely the easiest weekly task. If an essential component is absent, moving to another pick is more sensible than planning an immediate upgrade.",
+    "description": "For a more specialized setup, MODOFO 2-in-1 Electric Pruning Shears Cordless with Pole, 2.1\" Cutting Diameter Pole Pruning Shears, Brushless Motor brings a different mix of working weight and hand fit and rated cutting diameter. 👍: The electric pruner features a dual-function design that allows you to effortlessly switch between a handheld pruner and a long-reach pole pruner (up to 9 ft / 2.7 m in length)—no.\n\nAt this under-$200 tier, it is the pick to compare when the ordinary garden routine matters more than collecting every available feature. 👍: Switch between 2.1\" and 1.6\" cutting modes to handle both thick branches and precise trimming., this tool effortlessly handles any task—whether it involves heavy pruning of fruit trees.\n\nMatch working weight and hand fit to the hardest part of the intended job, not merely the easiest weekly task. If an essential component is absent, moving to another pick is more sensible than planning an immediate upgrade.",
     "bestFor": "buyers who prioritize working weight and hand fit while staying within the stated budget ceiling",
     "pros": [
       "👍: The electric pruner features a dual-function design that allows you to effortlessly switch between a handheld pruner and a long-reach pole",
@@ -117,11 +117,11 @@ export const products: GuideProduct[] = [
     "specs": [
       "Cordless"
     ],
-    "description": "CRAFTSMAN V20 Cordless Electric Pruner, Pruning Shears for Gardening, 2 Ah Battery and Charger Included makes sense where storage and everyday handling carry as much weight as headline capacity. Powerful, cordless convenience: designed to deliver dependable performance\n\nInside the $200 ceiling, the design is most convincing when its smaller operational footprint solves a real storage or handling constraint. Cut through wet and dry wood: 1-1/4 in cut capacity\n\nCheck the stored dimensions as carefully as the working specifications. The right budget pick should fit both the garden task and the place where it will live between uses.",
+    "description": "CRAFTSMAN V20 Cordless Electric Pruner, Pruning Shears for Gardening, 2 Ah Battery and Charger Included makes sense where storage and everyday handling carry as much weight as headline capacity. Powerful, cordless convenience: designed to deliver dependable performance.\n\nInside the $200 ceiling, the design is most convincing when its smaller operational footprint solves a real storage or handling constraint. Cut through wet and dry wood: 1-1/4 in cut capacity.\n\nCheck the stored dimensions as carefully as the working specifications. The right budget pick should fit both the garden task and the place where it will live between uses.",
     "bestFor": "buyers who prioritize safety lock and replacement-blade support while staying within the stated budget ceiling",
     "pros": [
-      "Powerful, cordless convenience: designed to deliver dependable performance",
-      "Cut through wet and dry wood: 1-1/4 in cut capacity",
+      "Powerful, cordless convenience: designed to deliver dependable performance.",
+      "Cut through wet and dry wood: 1-1/4 in cut capacity.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
@@ -141,11 +141,11 @@ export const products: GuideProduct[] = [
       "20V",
       "2.4 Pounds"
     ],
-    "description": "WORX Cordless Pruning Shear, 20V Powered Lopper, WG330 rounds out the shortlist with a configuration that serves a narrower but useful garden scenario. Worx NITRO tools are engineered to provide greater power, performance, and run time\n\nIt belongs in this under-$200 shortlist as a credible final option, but only for shoppers whose workload matches the documented configuration. Titanium plating on the blade decreases friction, provides easier cutting, and offers long lasting protection against rust corrosion\n\nUse this option as a cross-check against the first five rather than an automatic fallback. Its value depends on the exact model, included hardware and compatibility remaining aligned with your setup.",
+    "description": "WORX Cordless Pruning Shear, 20V Powered Lopper, WG330 rounds out the shortlist with a configuration that serves a narrower but useful garden scenario. Worx NITRO tools are engineered to provide greater power, performance, and run time.\n\nIt belongs in this under-$200 shortlist as a credible final option, but only for shoppers whose workload matches the documented configuration. Titanium plating on the blade decreases friction, provides easier cutting, and offers long lasting protection against rust corrosion.\n\nUse this option as a cross-check against the first five rather than an automatic fallback. Its value depends on the exact model, included hardware and compatibility remaining aligned with your setup.",
     "bestFor": "buyers who prioritize rated cutting diameter while staying within the stated budget ceiling",
     "pros": [
-      "Worx NITRO tools are engineered to provide greater power, performance, and run time",
-      "Titanium plating on the blade decreases friction, provides easier cutting, and offers long lasting protection against rust corrosion",
+      "Worx NITRO tools are engineered to provide greater power, performance, and run time.",
+      "Titanium plating on the blade decreases friction, provides easier cutting, and offers long lasting protection against rust corrosion.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [

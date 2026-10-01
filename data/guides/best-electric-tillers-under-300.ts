@@ -24,11 +24,11 @@ export const products: GuideProduct[] = [
       "16-Inch",
       "27.08 Pounds"
     ],
-    "description": "Sun Joe Electric Corded Garden Tiller & Cultivator, Steel Tines, 13.5 Amp earns the lead position because its documented setup balances tilling width and depth with tine layout and soil type. Powerful Electric Tiller: Electric rototiller with a 13.5-amp motor easily tills up to 16 inches wide and 8 inches deep for efficient soil preparation in your lawn or garden\n\nIts place in an under-$300 comparison depends on usable capability, not the size of the claims in the listing. Durable Steel Tines: This corded electric tiller features 6 rust-proof, steel-angled tines for long-lasting performance and durability\n\nConfirm the included components and compare 16-Inch, 27.08 Pounds with the area you actually maintain. Recheck that the exact variation still qualifies for this guide before ordering.",
+    "description": "Sun Joe Electric Corded Garden Tiller & Cultivator, Steel Tines, 13.5 Amp earns the lead position because its documented setup balances tilling width and depth with tine layout and soil type. Powerful Electric Tiller: Electric rototiller with a 13.5-amp motor easily tills up to 16 inches wide and 8 inches deep for efficient soil preparation in your lawn or garden.\n\nIts place in an under-$300 comparison depends on usable capability, not the size of the claims in the listing. Durable Steel Tines: This corded electric tiller features 6 rust-proof, steel-angled tines for long-lasting performance and durability.\n\nConfirm the included components and compare 16-Inch, 27.08 Pounds with the area you actually maintain. Recheck that the exact variation still qualifies for this guide before ordering.",
     "bestFor": "buyers who prioritize tilling width and depth while staying within the stated budget ceiling",
     "pros": [
       "Powerful Electric Tiller: Electric rototiller with a 13.5-amp motor easily tills up to 16 inches wide and 8 inches deep for efficient soil",
-      "Durable Steel Tines: This corded electric tiller features 6 rust-proof, steel-angled tines for long-lasting performance and durability",
+      "Durable Steel Tines: This corded electric tiller features 6 rust-proof, steel-angled tines for long-lasting performance and durability.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
@@ -116,7 +116,7 @@ export const products: GuideProduct[] = [
       "40V",
       "21 Pounds"
     ],
-    "description": "Greenworks 40V 10\" Cordless Tiller / Cultivator, 4.0Ah Battery and Charger Included, Green makes sense where storage and everyday handling carry as much weight as headline capacity. 40V TILLER / CULTIVATOR – provides the power you need to break up hard, compact soil into loose, broken-up dirt that can then be used for planting\n\nInside the $300 ceiling, the design is most convincing when its smaller operational footprint solves a real storage or handling constraint. PERFECT FOR YOUR GARDEN – Up to 45 minutes of run-time on a fully charged 4.0Ah battery.\n\nCheck the stored dimensions as carefully as the working specifications. The right budget pick should fit both the garden task and the place where it will live between uses.",
+    "description": "Greenworks 40V 10\" Cordless Tiller / Cultivator, 4.0Ah Battery and Charger Included, Green makes sense where storage and everyday handling carry as much weight as headline capacity. 40V TILLER / CULTIVATOR – provides the power you need to break up hard, compact soil into loose, broken-up dirt that can then be used for planting.\n\nInside the $300 ceiling, the design is most convincing when its smaller operational footprint solves a real storage or handling constraint. PERFECT FOR YOUR GARDEN – Up to 45 minutes of run-time on a fully charged 4.0Ah battery.\n\nCheck the stored dimensions as carefully as the working specifications. The right budget pick should fit both the garden task and the place where it will live between uses.",
     "bestFor": "buyers who prioritize handle controls and storage while staying within the stated budget ceiling",
     "pros": [
       "40V TILLER / CULTIVATOR – provides the power you need to break up hard, compact soil into loose, broken-up dirt that can then be used for",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
       "Metal",
       "3 pounds"
     ],
-    "description": "BIONIC STEEL 100 Ft Metal Garden Hose with Sprayer Nozzle earns the lead position because its documented setup balances usable length and inside diameter with filled weight and drag. RUST-PROOF 304 STAINLESS STEEL HOSE THAT OUTLASTS RUBBER: Built from commercial-grade 304 stainless steel, this metal garden hose never rusts, cracks, or rots like ordinary hoses — so you\n\nIts place in an under-$50 comparison depends on usable capability, not the size of the claims in the listing. NEVER KINKS, NEVER TANGLES — WATER WHEN YOU NEED IT: The memoryless steel design lays flat and resists kinks, so you stop walking back to untwist the line and keep watering without\n\nConfirm the included components and compare 100', Metal, 3 pounds with the area you actually maintain. Recheck that the exact variation still qualifies for this guide before ordering.",
+    "description": "BIONIC STEEL 100 Ft Metal Garden Hose with Sprayer Nozzle earns the lead position because its documented setup balances usable length and inside diameter with filled weight and drag. RUST-PROOF 304 STAINLESS STEEL HOSE THAT OUTLASTS RUBBER: Built from commercial-grade 304 stainless steel, this metal garden hose never rusts, cracks, or rots like ordinary hoses — so you.\n\nIts place in an under-$50 comparison depends on usable capability, not the size of the claims in the listing. NEVER KINKS, NEVER TANGLES — WATER WHEN YOU NEED IT: The memoryless steel design lays flat and resists kinks, so you stop walking back to untwist the line and keep watering without.\n\nConfirm the included components and compare 100', Metal, 3 pounds with the area you actually maintain. Recheck that the exact variation still qualifies for this guide before ordering.",
     "bestFor": "buyers who prioritize usable length and inside diameter while staying within the stated budget ceiling",
     "pros": [
       "RUST-PROOF 304 STAINLESS STEEL HOSE THAT OUTLASTS RUBBER: Built from commercial-grade 304 stainless steel, this metal garden hose never rusts",
@@ -48,11 +48,11 @@ export const products: GuideProduct[] = [
       "5/8\" x 50'",
       "4.33 pounds"
     ],
-    "description": "The case for zero-G 5/8\" x 50ft Garden Hose, Lightweight Kink-Free Water Hose 4001-50 begins with fitting material and leak resistance, an area where budget models can differ substantially. 50% More Lightweight - Assures effortless handling\n\nWithin this under-$50 group, that configuration gives it a clear job instead of making it a duplicate of the lead pick. Kink Resistant - Provides an uninterrupted flow\n\nMeasure the route or work area first, then verify 5/8\" x 50', 4.33 pounds on the selected variation. A similar product-family photo is not enough evidence that every configuration includes the same parts.",
+    "description": "The case for zero-G 5/8\" x 50ft Garden Hose, Lightweight Kink-Free Water Hose 4001-50 begins with fitting material and leak resistance, an area where budget models can differ substantially. 50% More Lightweight - Assures effortless handling.\n\nWithin this under-$50 group, that configuration gives it a clear job instead of making it a duplicate of the lead pick. Kink Resistant - Provides an uninterrupted flow.\n\nMeasure the route or work area first, then verify 5/8\" x 50', 4.33 pounds on the selected variation. A similar product-family photo is not enough evidence that every configuration includes the same parts.",
     "bestFor": "buyers who prioritize fitting material and leak resistance while staying within the stated budget ceiling",
     "pros": [
-      "50% More Lightweight - Assures effortless handling",
-      "Kink Resistant - Provides an uninterrupted flow",
+      "50% More Lightweight - Assures effortless handling.",
+      "Kink Resistant - Provides an uninterrupted flow.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
@@ -71,11 +71,11 @@ export const products: GuideProduct[] = [
       "50ft",
       "0.1 pounds"
     ],
-    "description": "Flexzilla Garden Hose 5/8 in. x 50 ft., Lightweight All-Weather Water Hose, Durable and Flexible is the practical alternative in this shortlist, particularly when included nozzle and repairability matters more than extra accessories. The documented configuration gives shoppers a concrete basis for comparing filled weight and drag.\n\nThe under-$50 trade-off is deliberate: it emphasizes filled weight and drag while leaving buyers to verify included nozzle and repairability for their own setup. EXTREMELY DURABLE - Abrasion-resistant outer cover and crush-resistant anodized aircraft aluminum fittings\n\nPay particular attention to included nozzle and repairability, because that is where this alternative may fit differently from the lead model. The current offer and variation should be confirmed through the Check price link.",
+    "description": "Flexzilla Garden Hose 5/8 in. x 50 ft., Lightweight All-Weather Water Hose, Durable and Flexible is the practical alternative in this shortlist, particularly when included nozzle and repairability matters more than extra accessories. The documented configuration gives shoppers a concrete basis for comparing filled weight and drag.\n\nThe under-$50 trade-off is deliberate: it emphasizes filled weight and drag while leaving buyers to verify included nozzle and repairability for their own setup. EXTREMELY DURABLE - Abrasion-resistant outer cover and crush-resistant anodized aircraft aluminum fittings.\n\nPay particular attention to included nozzle and repairability, because that is where this alternative may fit differently from the lead model. The current offer and variation should be confirmed through the Check price link.",
     "bestFor": "buyers who prioritize filled weight and drag while staying within the stated budget ceiling",
     "pros": [
       "Documented design addresses filled weight and drag.",
-      "EXTREMELY DURABLE - Abrasion-resistant outer cover and crush-resistant anodized aircraft aluminum fittings",
+      "EXTREMELY DURABLE - Abrasion-resistant outer cover and crush-resistant anodized aircraft aluminum fittings.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
       "50FT",
       "1.5 pounds"
     ],
-    "description": "CXEZSIK Garden Hose 50FT Lightweight Non-Expanding Leak-Proof No-Knot Black rounds out the shortlist with a configuration that serves a narrower but useful garden scenario. More Sturdier: This is a stronger yet lightweight garden hose, constructed from 4 layers of reinforced materials.\n\nIt belongs in this under-$50 shortlist as a credible final option, but only for shoppers whose workload matches the documented configuration. Lighter, Easier to Use: This 50 ft garden hose weighs only 3.4 pounds, which is about 60% lighter than traditional garden hoses.The flexible garden hose uses a special braided design with\n\nUse this option as a cross-check against the first five rather than an automatic fallback. Its value depends on the exact model, included hardware and compatibility remaining aligned with your setup.",
+    "description": "CXEZSIK Garden Hose 50FT Lightweight Non-Expanding Leak-Proof No-Knot Black rounds out the shortlist with a configuration that serves a narrower but useful garden scenario. More Sturdier: This is a stronger yet lightweight garden hose, constructed from 4 layers of reinforced materials.\n\nIt belongs in this under-$50 shortlist as a credible final option, but only for shoppers whose workload matches the documented configuration. Lighter, Easier to Use: This 50 ft garden hose weighs only 3.4 pounds, which is about 60% lighter than traditional garden hoses.The flexible garden hose uses a special braided design with.\n\nUse this option as a cross-check against the first five rather than an automatic fallback. Its value depends on the exact model, included hardware and compatibility remaining aligned with your setup.",
     "bestFor": "buyers who prioritize usable length and inside diameter while staying within the stated budget ceiling",
     "pros": [
       "More Sturdier: This is a stronger yet lightweight garden hose, constructed from 4 layers of reinforced materials.",

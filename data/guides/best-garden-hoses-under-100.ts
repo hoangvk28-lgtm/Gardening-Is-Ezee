@@ -23,7 +23,7 @@ export const products: GuideProduct[] = [
     "specs": [
       "100 Feet"
     ],
-    "description": "DEWALT Professional Grade Heavy Duty Garden Hose 100 Feet x 5/8 Inch earns the lead position because its documented setup balances usable length and inside diameter with filled weight and drag. UNMATCHED FLEXIBILITY IN ANY WEATHER - This heavy duty water hose features a hybrid polymer blend, allowing the 100 ft hose to remain flexible and easy to maneuver in extreme weather\n\nIts place in an under-$100 comparison depends on usable capability, not the size of the claims in the listing. BUILT FOR LONG-LASTING DURABILITY - With a reinforced design that withstands up to 500 PSI, this heavy duty garden hose guarantees resilience, perfect for homeowners and professionals in\n\nConfirm the included components and compare 100 Feet with the area you actually maintain. Recheck that the exact variation still qualifies for this guide before ordering.",
+    "description": "DEWALT Professional Grade Heavy Duty Garden Hose 100 Feet x 5/8 Inch earns the lead position because its documented setup balances usable length and inside diameter with filled weight and drag. UNMATCHED FLEXIBILITY IN ANY WEATHER - This heavy duty water hose features a hybrid polymer blend, allowing the 100 ft hose to remain flexible and easy to maneuver in extreme weather.\n\nIts place in an under-$100 comparison depends on usable capability, not the size of the claims in the listing. BUILT FOR LONG-LASTING DURABILITY - With a reinforced design that withstands up to 500 PSI, this heavy duty garden hose guarantees resilience, perfect for homeowners and professionals in.\n\nConfirm the included components and compare 100 Feet with the area you actually maintain. Recheck that the exact variation still qualifies for this guide before ordering.",
     "bestFor": "buyers who prioritize usable length and inside diameter while staying within the stated budget ceiling",
     "pros": [
       "UNMATCHED FLEXIBILITY IN ANY WEATHER - This heavy duty water hose features a hybrid polymer blend, allowing the 100 ft hose to remain flexible",
@@ -45,7 +45,7 @@ export const products: GuideProduct[] = [
     "specs": [
       "50 FT"
     ],
-    "description": "The case for Pocket Hose Ballistic Double UV 50 FT Expandable Garden Hose, Pocket Pivot begins with fitting material and leak resistance, an area where budget models can differ substantially. DOUBLE UV PROTECTION FOR LONGER-LASTING PERFORMANCE: Our Premium Pocket Hose Ballistic features 2X the UV protection to help shield the hose from sun exposure and keep it performing and\n\nWithin this under-$100 group, that configuration gives it a clear job instead of making it a duplicate of the lead pick. BALLISTIC-GRADE ANTI-BURST SLEEVE: Reinforced with a Liquid Crystal Polymer strand used in bulletproof applications that is 5X stronger than steel* for added durability during everyday\n\nMeasure the route or work area first, then verify 50 FT on the selected variation. A similar product-family photo is not enough evidence that every configuration includes the same parts.",
+    "description": "The case for Pocket Hose Ballistic Double UV 50 FT Expandable Garden Hose, Pocket Pivot begins with fitting material and leak resistance, an area where budget models can differ substantially. DOUBLE UV PROTECTION FOR LONGER-LASTING PERFORMANCE: Our Premium Pocket Hose Ballistic features 2X the UV protection to help shield the hose from sun exposure and keep it performing and.\n\nWithin this under-$100 group, that configuration gives it a clear job instead of making it a duplicate of the lead pick. BALLISTIC-GRADE ANTI-BURST SLEEVE: Reinforced with a Liquid Crystal Polymer strand used in bulletproof applications that is 5X stronger than steel* for added durability during everyday.\n\nMeasure the route or work area first, then verify 50 FT on the selected variation. A similar product-family photo is not enough evidence that every configuration includes the same parts.",
     "bestFor": "buyers who prioritize fitting material and leak resistance while staying within the stated budget ceiling",
     "pros": [
       "DOUBLE UV PROTECTION FOR LONGER-LASTING PERFORMANCE: Our Premium Pocket Hose Ballistic features 2X the UV protection to help shield the hose",
@@ -91,11 +91,11 @@ export const products: GuideProduct[] = [
       "100ft",
       "15.5 Pounds"
     ],
-    "description": "For a more specialized setup, Flexzilla Garden Hose 5/8 in. x 100 ft., Lightweight All-Weather Water Hose, Durable and Flexible brings a different mix of kink behavior and storage and usable length and inside diameter. The documented configuration gives shoppers a concrete basis for comparing kink behavior and storage.\n\nAt this under-$100 tier, it is the pick to compare when the ordinary garden routine matters more than collecting every available feature. EXTREMELY DURABLE - Abrasion-resistant outer cover and crush-resistant anodized aircraft aluminum fittings\n\nMatch kink behavior and storage to the hardest part of the intended job, not merely the easiest weekly task. If an essential component is absent, moving to another pick is more sensible than planning an immediate upgrade.",
+    "description": "For a more specialized setup, Flexzilla Garden Hose 5/8 in. x 100 ft., Lightweight All-Weather Water Hose, Durable and Flexible brings a different mix of kink behavior and storage and usable length and inside diameter. The documented configuration gives shoppers a concrete basis for comparing kink behavior and storage.\n\nAt this under-$100 tier, it is the pick to compare when the ordinary garden routine matters more than collecting every available feature. EXTREMELY DURABLE - Abrasion-resistant outer cover and crush-resistant anodized aircraft aluminum fittings.\n\nMatch kink behavior and storage to the hardest part of the intended job, not merely the easiest weekly task. If an essential component is absent, moving to another pick is more sensible than planning an immediate upgrade.",
     "bestFor": "buyers who prioritize kink behavior and storage while staying within the stated budget ceiling",
     "pros": [
       "Documented design addresses kink behavior and storage.",
-      "EXTREMELY DURABLE - Abrasion-resistant outer cover and crush-resistant anodized aircraft aluminum fittings",
+      "EXTREMELY DURABLE - Abrasion-resistant outer cover and crush-resistant anodized aircraft aluminum fittings.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
       "Metal",
       "3 pounds"
     ],
-    "description": "BIONIC STEEL 100 Ft Metal Garden Hose with Sprayer Nozzle makes sense where storage and everyday handling carry as much weight as headline capacity. RUST-PROOF 304 STAINLESS STEEL HOSE THAT OUTLASTS RUBBER: Built from commercial-grade 304 stainless steel, this metal garden hose never rusts, cracks, or rots like ordinary hoses — so you\n\nInside the $100 ceiling, the design is most convincing when its smaller operational footprint solves a real storage or handling constraint. NEVER KINKS, NEVER TANGLES — WATER WHEN YOU NEED IT: The memoryless steel design lays flat and resists kinks, so you stop walking back to untwist the line and keep watering without\n\nCheck the stored dimensions as carefully as the working specifications. The right budget pick should fit both the garden task and the place where it will live between uses.",
+    "description": "BIONIC STEEL 100 Ft Metal Garden Hose with Sprayer Nozzle makes sense where storage and everyday handling carry as much weight as headline capacity. RUST-PROOF 304 STAINLESS STEEL HOSE THAT OUTLASTS RUBBER: Built from commercial-grade 304 stainless steel, this metal garden hose never rusts, cracks, or rots like ordinary hoses — so you.\n\nInside the $100 ceiling, the design is most convincing when its smaller operational footprint solves a real storage or handling constraint. NEVER KINKS, NEVER TANGLES — WATER WHEN YOU NEED IT: The memoryless steel design lays flat and resists kinks, so you stop walking back to untwist the line and keep watering without.\n\nCheck the stored dimensions as carefully as the working specifications. The right budget pick should fit both the garden task and the place where it will live between uses.",
     "bestFor": "buyers who prioritize included nozzle and repairability while staying within the stated budget ceiling",
     "pros": [
       "RUST-PROOF 304 STAINLESS STEEL HOSE THAT OUTLASTS RUBBER: Built from commercial-grade 304 stainless steel, this metal garden hose never rusts",
@@ -138,11 +138,11 @@ export const products: GuideProduct[] = [
       "5/8\" x 50'",
       "4.33 pounds"
     ],
-    "description": "zero-G 5/8\" x 50ft Garden Hose, Lightweight Kink-Free Water Hose 4001-50 rounds out the shortlist with a configuration that serves a narrower but useful garden scenario. 50% More Lightweight - Assures effortless handling\n\nIt belongs in this under-$100 shortlist as a credible final option, but only for shoppers whose workload matches the documented configuration. Kink Resistant - Provides an uninterrupted flow\n\nUse this option as a cross-check against the first five rather than an automatic fallback. Its value depends on the exact model, included hardware and compatibility remaining aligned with your setup.",
+    "description": "zero-G 5/8\" x 50ft Garden Hose, Lightweight Kink-Free Water Hose 4001-50 rounds out the shortlist with a configuration that serves a narrower but useful garden scenario. 50% More Lightweight - Assures effortless handling.\n\nIt belongs in this under-$100 shortlist as a credible final option, but only for shoppers whose workload matches the documented configuration. Kink Resistant - Provides an uninterrupted flow.\n\nUse this option as a cross-check against the first five rather than an automatic fallback. Its value depends on the exact model, included hardware and compatibility remaining aligned with your setup.",
     "bestFor": "buyers who prioritize usable length and inside diameter while staying within the stated budget ceiling",
     "pros": [
-      "50% More Lightweight - Assures effortless handling",
-      "Kink Resistant - Provides an uninterrupted flow",
+      "50% More Lightweight - Assures effortless handling.",
+      "Kink Resistant - Provides an uninterrupted flow.",
       "Current listing provides an identifiable model and included-component set"
     ],
     "cons": [
