@@ -64,7 +64,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   // Analytics must only fire in production so local development does not pollute
   // the site's reports. The GA measurement ID is public and belongs to this site.
   const isProd = process.env.NODE_ENV === "production";
-  const clarityId = process.env.NEXT_PUBLIC_CLARITY_ID;
+  const clarityId = process.env.NEXT_PUBLIC_CLARITY_ID || "ytsc7pd2va";
   return (
     <html lang="en" className={`${inter.variable} ${fraunces.variable} h-full`}>
       <head>
